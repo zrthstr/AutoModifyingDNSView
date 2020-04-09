@@ -1,0 +1,40 @@
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+#  docker_job:
+#    runs-on: ubuntu-latest
+#    name: A job to say hello
+#    steps:
+#    - name: Hello world action step
+#      id: hello
+#      uses: actions/hello-world-docker-action@v1
+#      with:
+#        who-to-greet: 'P1P1P1P1P1Mona the Octocat'
+#    # Use the output from the `hello` step
+#    - name: Get the output time
+#      run: echo "The time was ${{ steps.hello.outputs.time }}"
+
+  makefile_job:
+    runs-on: ubuntu-latest
+    name: checkout fetch eval update add commit loop
+    steps:
+    - name: checkout
+      id: fiirst
+      uses: actions/checkout@v2
+    - name: fetch data
+      id: foo
+      run: make test
+   # skipp eval, update
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.bot"
+        git config --local user.name "zrthstr"
+        git commit -m "update data" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
