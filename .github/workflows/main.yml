@@ -25,9 +25,18 @@ jobs:
     - name: checkout
       id: fiirst
       uses: actions/checkout@v2
-    - name: fetch data
-      id: foo
+    - name: make test
+      id: make_test
       run: make test
+    - name: make update_tld_file
+      id: make_update_tld_file
+      run: make update_tld_file
+    - name: make filter_tld_file
+      id: make_filter_tld_file
+      run: make filter_tld_file
+    - name: make censore_tld_file
+      id: make_censore_tld_file
+      run: make censore_tld_file
    # skipp eval, update
     - name: Commit files
       run: |
