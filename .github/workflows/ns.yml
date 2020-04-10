@@ -1,8 +1,7 @@
+### "At 00:55 on Thursday."
 on:
-  push:
-  pull_request:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '55 0 * * 4'
 
 jobs:
   makefile_job:
@@ -10,7 +9,7 @@ jobs:
     name: checkout fetch eval update add commit loop
     steps:
     - name: checkout
-      id: fiirst
+      id: first
       uses: actions/checkout@v2
     - name: make update_tld_file
       id: make_update_tld_file
@@ -27,16 +26,16 @@ jobs:
     - name: make install_py_dep
       id: make_install_py_dep
       run: make install_py_dep
-    - name: make view_dns
-      id: make_view_dns
-      run: make view_dns
+    - name: make get_ns
+      id: make_get_ns
+      run: make get_ns
 
    # skipp eval, update
     - name: Commit files
       run: |
         git config --local user.email "action@github.bot"
         git config --local user.name "zrthstr"
-        git commit -m "update data" -a
+        git commit -m "update ns" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

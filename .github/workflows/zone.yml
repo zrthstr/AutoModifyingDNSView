@@ -1,0 +1,28 @@
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  makefile_job:
+    runs-on: ubuntu-latest
+    name: checkout fetch eval update add commit loop
+    steps:
+    - name: checkout
+      id: fiirst
+      uses: actions/checkout@v2
+    - name: make get_zone
+      id: make_get_zone
+      run: make get_zone
+
+   # skipp eval, update
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.bot"
+        git config --local user.name "zrthstr"
+        git commit -m "update zones" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
