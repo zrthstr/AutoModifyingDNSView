@@ -25,4 +25,5 @@ count_sane_tld_file:
 	wc -l $(TLD_LIST) $(TLD_LIST_CLEAN) $(TLD_LIST_SANE) >> $(TLD_LIST_STAT)
 
 view_dns:
+	date >> $(ZONE_LOG)
 	python3 inspect_zone.py >> $(ZONE_LOG)

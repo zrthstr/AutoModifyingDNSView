@@ -48,7 +48,7 @@ def get_zone(nameserver,domain,lifetime=5):
 
 
 #lines = get_random_line(tld_file, stop_in_lines=10, stop_in_sec )
-lines = get_random_line(tld_file, stop_in_sec=2 )
+lines = get_random_line(tld_file, stop_in_sec=5 )
 
 for domain in lines:
     for ns in get_ns(domain):
