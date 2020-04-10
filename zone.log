@@ -1670,3 +1670,145 @@ False False gm
 [-] No NS-record found for domain: gm .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 12:02:18 UTC 2020
+False False arteducation.museum
+[.] No Zone for domain: arteducation.museum by NS: False .
+[-] No NS-record found for domain: arteducation.museum .
+False a.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: a.dns.cn. .
+False cns.cernet.net. yn.cn
+[.] No Zone for domain: yn.cn by NS: cns.cernet.net. .
+False f.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: f.dns.cn. .
+False e.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: e.dns.cn. .
+False c.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: c.dns.cn. .
+False b.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: b.dns.cn. .
+False g.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: g.dns.cn. .
+False d.dns.cn. yn.cn
+[.] No Zone for domain: yn.cn by NS: d.dns.cn. .
+[-] No NS-record found for domain: yn.cn .
+False False jinsekikogen.hiroshima.jp
+[.] No Zone for domain: jinsekikogen.hiroshima.jp by NS: False .
+[-] No NS-record found for domain: jinsekikogen.hiroshima.jp .
+False False furano.hokkaido.jp
+[.] No Zone for domain: furano.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: furano.hokkaido.jp .
+False nms.cyfronet.krakow.pl. zakopane.pl
+[.] No Zone for domain: zakopane.pl by NS: nms.cyfronet.krakow.pl. .
+False bilbo.nask.org.pl. zakopane.pl
+[.] No Zone for domain: zakopane.pl by NS: bilbo.nask.org.pl. .
+[-] No NS-record found for domain: zakopane.pl .
+False fay.ns.cloudflare.com. meinforum.net
+[.] No Zone for domain: meinforum.net by NS: fay.ns.cloudflare.com. .
+False theo.ns.cloudflare.com. meinforum.net
+[.] No Zone for domain: meinforum.net by NS: theo.ns.cloudflare.com. .
+[-] No NS-record found for domain: meinforum.net .
+False False aibetsu.hokkaido.jp
+[.] No Zone for domain: aibetsu.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: aibetsu.hokkaido.jp .
+False False 信息
+[.] No Zone for domain: 信息 by NS: False .
+[-] No NS-record found for domain: 信息 .
+False False members.linode.com
+[.] No Zone for domain: members.linode.com by NS: False .
+[-] No NS-record found for domain: members.linode.com .
+False False soja.okayama.jp
+[.] No Zone for domain: soja.okayama.jp by NS: False .
+[-] No NS-record found for domain: soja.okayama.jp .
+False False homes
+[.] No Zone for domain: homes by NS: False .
+[-] No NS-record found for domain: homes .
+False False kuju.oita.jp
+[.] No Zone for domain: kuju.oita.jp by NS: False .
+[-] No NS-record found for domain: kuju.oita.jp .
+False False architecture.museum
+[.] No Zone for domain: architecture.museum by NS: False .
+[-] No NS-record found for domain: architecture.museum .
+False False ojiya.niigata.jp
+[.] No Zone for domain: ojiya.niigata.jp by NS: False .
+[-] No NS-record found for domain: ojiya.niigata.jp .
+False False 中國
+[.] No Zone for domain: 中國 by NS: False .
+[-] No NS-record found for domain: 中國 .
+False False dubai
+[.] No Zone for domain: dubai by NS: False .
+[-] No NS-record found for domain: dubai .
+False False shingu.fukuoka.jp
+[.] No Zone for domain: shingu.fukuoka.jp by NS: False .
+[-] No NS-record found for domain: shingu.fukuoka.jp .
+False False com.ro
+[.] No Zone for domain: com.ro by NS: False .
+[-] No NS-record found for domain: com.ro .
+False ns.gta.gov.zw. gov.zw
+[.] No Zone for domain: gov.zw by NS: ns.gta.gov.zw. .
+False ns1.gta.gov.zw. gov.zw
+[.] No Zone for domain: gov.zw by NS: ns1.gta.gov.zw. .
+[-] No NS-record found for domain: gov.zw .
+False nf1.no-ip.com. securitytactics.com
+[.] No Zone for domain: securitytactics.com by NS: nf1.no-ip.com. .
+False nf2.no-ip.com. securitytactics.com
+[.] No Zone for domain: securitytactics.com by NS: nf2.no-ip.com. .
+False nf3.no-ip.com. securitytactics.com
+[.] No Zone for domain: securitytactics.com by NS: nf3.no-ip.com. .
+False nf4.no-ip.com. securitytactics.com
+[.] No Zone for domain: securitytactics.com by NS: nf4.no-ip.com. .
+[-] No NS-record found for domain: securitytactics.com .
+False False mishima.shizuoka.jp
+[.] No Zone for domain: mishima.shizuoka.jp by NS: False .
+[-] No NS-record found for domain: mishima.shizuoka.jp .
+False ns-cloud-b3.googledomains.com. lpages.co
+[.] No Zone for domain: lpages.co by NS: ns-cloud-b3.googledomains.com. .
+False ns-cloud-b2.googledomains.com. lpages.co
+[.] No Zone for domain: lpages.co by NS: ns-cloud-b2.googledomains.com. .
+False ns-cloud-b4.googledomains.com. lpages.co
+[.] No Zone for domain: lpages.co by NS: ns-cloud-b4.googledomains.com. .
+False ns-cloud-b1.googledomains.com. lpages.co
+[.] No Zone for domain: lpages.co by NS: ns-cloud-b1.googledomains.com. .
+[-] No NS-record found for domain: lpages.co .
+False False at.it
+[.] No Zone for domain: at.it by NS: False .
+[-] No NS-record found for domain: at.it .
+False False or.us
+[.] No Zone for domain: or.us by NS: False .
+[-] No NS-record found for domain: or.us .
+False QUIPU.RCP.NET.pe. edu.pe
+[.] No Zone for domain: edu.pe by NS: QUIPU.RCP.NET.pe. .
+False PCH.RCP.pe. edu.pe
+[.] No Zone for domain: edu.pe by NS: PCH.RCP.pe. .
+False PE1.DNSNODE.NET. edu.pe
+[.] No Zone for domain: edu.pe by NS: PE1.DNSNODE.NET. .
+[-] No NS-record found for domain: edu.pe .
+False False org.ph
+[.] No Zone for domain: org.ph by NS: False .
+[-] No NS-record found for domain: org.ph .
+False False automotive.museum
+[.] No Zone for domain: automotive.museum by NS: False .
+[-] No NS-record found for domain: automotive.museum .
+False False komono.mie.jp
+[.] No Zone for domain: komono.mie.jp by NS: False .
+[-] No NS-record found for domain: komono.mie.jp .
+False False how
+[.] No Zone for domain: how by NS: False .
+[-] No NS-record found for domain: how .
+False False shimoji.okinawa.jp
+[.] No Zone for domain: shimoji.okinawa.jp by NS: False .
+[-] No NS-record found for domain: shimoji.okinawa.jp .
+False False int.is
+[.] No Zone for domain: int.is by NS: False .
+[-] No NS-record found for domain: int.is .
+False z.nic.no. folldal.no
+[.] No Zone for domain: folldal.no by NS: z.nic.no. .
+False y.nic.no. folldal.no
+[.] No Zone for domain: folldal.no by NS: y.nic.no. .
+False x.nic.no. folldal.no
+[.] No Zone for domain: folldal.no by NS: x.nic.no. .
+[-] No NS-record found for domain: folldal.no .
+False False chiropractic.museum
+[.] No Zone for domain: chiropractic.museum by NS: False .
+[-] No NS-record found for domain: chiropractic.museum .
+[-] Timeout hit.
+[end] No more line in tld pipline.
