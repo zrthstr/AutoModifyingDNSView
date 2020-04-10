@@ -24,6 +24,9 @@ jobs:
     - name: make count_sane_tld_file
       id: make_count_sane_tld_file
       run: make count_sane_tld_file
+    - name: make view_dns
+      id: make_view_dns
+      run: make view_dns
    # skipp eval, update
     - name: Commit files
       run: |

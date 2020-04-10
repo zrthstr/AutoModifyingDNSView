@@ -2,6 +2,7 @@ TLD_LIST = effective_tld_names.dat
 TLD_LIST_CLEAN = $(TLD_LIST).clean
 TLD_LIST_SANE = $(TLD_LIST).sane
 TLD_LIST_STAT = effective_tld_names.stat
+ZONES_LOG= zones.log
 
 #test:
 #	echo ABCEDFG >> data.list
@@ -19,3 +20,6 @@ censore_tld_file:
 count_sane_tld_file:
 	date >> $(TLD_LIST_STAT)
 	wc -l $(TLD_LIST) $(TLD_LIST_CLEAN) $(TLD_LIST_SANE) >> $(TLD_LIST_STAT)
+
+view_dns:
+	python3 inspect_zone.py >> $(ZONES_LOG)
