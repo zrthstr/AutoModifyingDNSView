@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 * * * *'
 
+jobs:
   makefile_job:
     runs-on: ubuntu-latest
     name: checkout fetch eval update add commit loop
