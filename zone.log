@@ -1361,3 +1361,99 @@ False False capebreton.museum
 [-] No NS-record found for domain: capebreton.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 09:02:06 UTC 2020
+False False mihama.aichi.jp
+[.] No Zone for domain: mihama.aichi.jp by NS: False .
+[-] No NS-record found for domain: mihama.aichi.jp .
+False Bluecatxfr.ne.alaska.edu. k12.ak.us
+[.] No Zone for domain: k12.ak.us by NS: Bluecatxfr.ne.alaska.edu. .
+False aduans-f.alaska.edu. k12.ak.us
+[.] No Zone for domain: k12.ak.us by NS: aduans-f.alaska.edu. .
+False aduans-a.alaska.edu. k12.ak.us
+[.] No Zone for domain: k12.ak.us by NS: aduans-a.alaska.edu. .
+[-] No NS-record found for domain: k12.ak.us .
+False False lighting
+[.] No Zone for domain: lighting by NS: False .
+[-] No NS-record found for domain: lighting .
+False False mi.us
+[.] No Zone for domain: mi.us by NS: False .
+[-] No NS-record found for domain: mi.us .
+False False sakyo.kyoto.jp
+[.] No Zone for domain: sakyo.kyoto.jp by NS: False .
+[-] No NS-record found for domain: sakyo.kyoto.jp .
+False a.hu. utazas.hu
+[.] No Zone for domain: utazas.hu by NS: a.hu. .
+False ns-s.nic.hu. utazas.hu
+[.] No Zone for domain: utazas.hu by NS: ns-s.nic.hu. .
+False b.hu. utazas.hu
+[.] No Zone for domain: utazas.hu by NS: b.hu. .
+False c.hu. utazas.hu
+[.] No Zone for domain: utazas.hu by NS: c.hu. .
+False d.hu. utazas.hu
+[.] No Zone for domain: utazas.hu by NS: d.hu. .
+[-] No NS-record found for domain: utazas.hu .
+False False lib.gu.us
+[.] No Zone for domain: lib.gu.us by NS: False .
+[-] No NS-record found for domain: lib.gu.us .
+False e.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: e.dns.br. .
+False c.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: c.dns.br. .
+False f.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: f.dns.br. .
+False b.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: b.dns.br. .
+False a.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: a.dns.br. .
+False d.dns.br. arq.br
+[.] No Zone for domain: arq.br by NS: d.dns.br. .
+[-] No NS-record found for domain: arq.br .
+False False homes
+[.] No Zone for domain: homes by NS: False .
+[-] No NS-record found for domain: homes .
+False False app.os.stg.fedoraproject.org
+[.] No Zone for domain: app.os.stg.fedoraproject.org by NS: False .
+[-] No NS-record found for domain: app.os.stg.fedoraproject.org .
+False ns-61.awsdns-07.com. onfabrica.com
+[.] No Zone for domain: onfabrica.com by NS: ns-61.awsdns-07.com. .
+False ns-518.awsdns-00.net. onfabrica.com
+[.] No Zone for domain: onfabrica.com by NS: ns-518.awsdns-00.net. .
+False ns-1999.awsdns-57.co.uk. onfabrica.com
+[.] No Zone for domain: onfabrica.com by NS: ns-1999.awsdns-57.co.uk. .
+False ns-1465.awsdns-55.org. onfabrica.com
+[.] No Zone for domain: onfabrica.com by NS: ns-1465.awsdns-55.org. .
+[-] No NS-record found for domain: onfabrica.com .
+False False tm.ro
+[.] No Zone for domain: tm.ro by NS: False .
+[-] No NS-record found for domain: tm.ro .
+False ns4.mammothvps.com.au. bnr.la
+[.] No Zone for domain: bnr.la by NS: ns4.mammothvps.com.au. .
+False ns2.mammothmedia.com.au. bnr.la
+[.] No Zone for domain: bnr.la by NS: ns2.mammothmedia.com.au. .
+False ns3.mammothvps.com.au. bnr.la
+[.] No Zone for domain: bnr.la by NS: ns3.mammothvps.com.au. .
+[-] No NS-record found for domain: bnr.la .
+False ns3-geo.nic.ru. nalchik.su
+[.] No Zone for domain: nalchik.su by NS: ns3-geo.nic.ru. .
+False ns4-geo.nic.ru. nalchik.su
+[.] No Zone for domain: nalchik.su by NS: ns4-geo.nic.ru. .
+False ns8-geo.nic.ru. nalchik.su
+[.] No Zone for domain: nalchik.su by NS: ns8-geo.nic.ru. .
+[-] No NS-record found for domain: nalchik.su .
+False False 谷歌
+[.] No Zone for domain: 谷歌 by NS: False .
+[-] No NS-record found for domain: 谷歌 .
+False False aisai.aichi.jp
+[.] No Zone for domain: aisai.aichi.jp by NS: False .
+[-] No NS-record found for domain: aisai.aichi.jp .
+False ns2.gov.az. gov.az
+[.] No Zone for domain: gov.az by NS: ns2.gov.az. .
+False ns3.gov.az. gov.az
+[.] No Zone for domain: gov.az by NS: ns3.gov.az. .
+False ns4.gov.az. gov.az
+[.] No Zone for domain: gov.az by NS: ns4.gov.az. .
+False ns1.gov.az. gov.az
+[.] No Zone for domain: gov.az by NS: ns1.gov.az. .
+[-] No NS-record found for domain: gov.az .
+[-] Timeout hit.
+[end] No more line in tld pipline.
