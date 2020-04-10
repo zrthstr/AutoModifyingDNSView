@@ -2697,3 +2697,221 @@ False False frog.museum
 [-] No NS-record found for domain: frog.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 18:02:04 UTC 2020
+False False noboribetsu.hokkaido.jp
+[.] No Zone for domain: noboribetsu.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: noboribetsu.hokkaido.jp .
+False ns2.smallregistry.net. medecin.fr
+[.] No Zone for domain: medecin.fr by NS: ns2.smallregistry.net. .
+False ns4.smallregistry.net. medecin.fr
+[.] No Zone for domain: medecin.fr by NS: ns4.smallregistry.net. .
+False ns1.smallregistry.net. medecin.fr
+[.] No Zone for domain: medecin.fr by NS: ns1.smallregistry.net. .
+False ns3.smallregistry.net. medecin.fr
+[.] No Zone for domain: medecin.fr by NS: ns3.smallregistry.net. .
+[-] No NS-record found for domain: medecin.fr .
+False cns.cernet.net. xj.cn
+[.] No Zone for domain: xj.cn by NS: cns.cernet.net. .
+False b.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: b.dns.cn. .
+False d.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: d.dns.cn. .
+False g.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: g.dns.cn. .
+False c.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: c.dns.cn. .
+False a.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: a.dns.cn. .
+False f.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: f.dns.cn. .
+False e.dns.cn. xj.cn
+[.] No Zone for domain: xj.cn by NS: e.dns.cn. .
+[-] No NS-record found for domain: xj.cn .
+False False guge
+[.] No Zone for domain: guge by NS: False .
+[-] No NS-record found for domain: guge .
+False ns-cloud-c2.googledomains.com. arvo.network
+[.] No Zone for domain: arvo.network by NS: ns-cloud-c2.googledomains.com. .
+False ns-cloud-c4.googledomains.com. arvo.network
+[.] No Zone for domain: arvo.network by NS: ns-cloud-c4.googledomains.com. .
+False ns-cloud-c1.googledomains.com. arvo.network
+[.] No Zone for domain: arvo.network by NS: ns-cloud-c1.googledomains.com. .
+False ns-cloud-c3.googledomains.com. arvo.network
+[.] No Zone for domain: arvo.network by NS: ns-cloud-c3.googledomains.com. .
+[-] No NS-record found for domain: arvo.network .
+False False discover
+[.] No Zone for domain: discover by NS: False .
+[-] No NS-record found for domain: discover .
+False False ac.se
+[.] No Zone for domain: ac.se by NS: False .
+[-] No NS-record found for domain: ac.se .
+False x1.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x1.nymnom.net. .
+False x2.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x2.nymnom.net. .
+False x3.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x3.nymnom.net. .
+False x4.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x4.nymnom.net. .
+False x5.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x5.nymnom.net. .
+False x6.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x6.nymnom.net. .
+[-] No NS-record found for domain: nym.gr .
+False a-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: a-dns.pl. .
+False b-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: b-dns.pl. .
+False c-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: c-dns.pl. .
+False e-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: e-dns.pl. .
+False f-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: f-dns.pl. .
+False g-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: g-dns.pl. .
+False i-dns.pl. rzeszow.pl
+[.] No Zone for domain: rzeszow.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: rzeszow.pl .
+False False nakai.kanagawa.jp
+[.] No Zone for domain: nakai.kanagawa.jp by NS: False .
+[-] No NS-record found for domain: nakai.kanagawa.jp .
+False nf1.no-ip.com. mysecuritycamera.org
+[.] No Zone for domain: mysecuritycamera.org by NS: nf1.no-ip.com. .
+False nf2.no-ip.com. mysecuritycamera.org
+[.] No Zone for domain: mysecuritycamera.org by NS: nf2.no-ip.com. .
+False nf3.no-ip.com. mysecuritycamera.org
+[.] No Zone for domain: mysecuritycamera.org by NS: nf3.no-ip.com. .
+False nf4.no-ip.com. mysecuritycamera.org
+[.] No Zone for domain: mysecuritycamera.org by NS: nf4.no-ip.com. .
+[-] No NS-record found for domain: mysecuritycamera.org .
+False False eu-2.evennode.com
+[.] No Zone for domain: eu-2.evennode.com by NS: False .
+[-] No NS-record found for domain: eu-2.evennode.com .
+False False عرب
+[.] No Zone for domain: عرب by NS: False .
+[-] No NS-record found for domain: عرب .
+False False genting
+[.] No Zone for domain: genting by NS: False .
+[-] No NS-record found for domain: genting .
+False ns2.google.com. appspot.com
+[.] No Zone for domain: appspot.com by NS: ns2.google.com. .
+False ns1.google.com. appspot.com
+[.] No Zone for domain: appspot.com by NS: ns1.google.com. .
+False ns3.google.com. appspot.com
+[.] No Zone for domain: appspot.com by NS: ns3.google.com. .
+False ns4.google.com. appspot.com
+[.] No Zone for domain: appspot.com by NS: ns4.google.com. .
+[-] No NS-record found for domain: appspot.com .
+False False bolzano-altoadige.it
+[.] No Zone for domain: bolzano-altoadige.it by NS: False .
+[-] No NS-record found for domain: bolzano-altoadige.it .
+False False تونس
+[.] No Zone for domain: تونس by NS: False .
+[-] No NS-record found for domain: تونس .
+False False y.bg
+[.] No Zone for domain: y.bg by NS: False .
+[-] No NS-record found for domain: y.bg .
+False ns1.go.gov.br. go.gov.br
+[.] No Zone for domain: go.gov.br by NS: ns1.go.gov.br. .
+False ns2.go.gov.br. go.gov.br
+[.] No Zone for domain: go.gov.br by NS: ns2.go.gov.br. .
+False ns3.go.gov.br. go.gov.br
+[.] No Zone for domain: go.gov.br by NS: ns3.go.gov.br. .
+[-] No NS-record found for domain: go.gov.br .
+False False shimokawa.hokkaido.jp
+[.] No Zone for domain: shimokawa.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: shimokawa.hokkaido.jp .
+False ns1.anteldata.com.uy. gub.uy
+[.] No Zone for domain: gub.uy by NS: ns1.anteldata.com.uy. .
+False a.lactld.org. gub.uy
+[.] No Zone for domain: gub.uy by NS: a.lactld.org. .
+False ns3.nic.mx. gub.uy
+[.] No Zone for domain: gub.uy by NS: ns3.nic.mx. .
+False ultra.edu.uy. gub.uy
+[.] No Zone for domain: gub.uy by NS: ultra.edu.uy. .
+False seciu.edu.uy. gub.uy
+[.] No Zone for domain: gub.uy by NS: seciu.edu.uy. .
+False ns.dns.br. gub.uy
+[.] No Zone for domain: gub.uy by NS: ns.dns.br. .
+False ns2.anteldata.com.uy. gub.uy
+[.] No Zone for domain: gub.uy by NS: ns2.anteldata.com.uy. .
+[-] No NS-record found for domain: gub.uy .
+False False ky.us
+[.] No Zone for domain: ky.us by NS: False .
+[-] No NS-record found for domain: ky.us .
+False ns1.dyndns.org. kicks-ass.org
+[.] No Zone for domain: kicks-ass.org by NS: ns1.dyndns.org. .
+False ns3.dyndns.org. kicks-ass.org
+[.] No Zone for domain: kicks-ass.org by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. kicks-ass.org
+[.] No Zone for domain: kicks-ass.org by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. kicks-ass.org
+[.] No Zone for domain: kicks-ass.org by NS: ns5.dyndns.org. .
+[-] No NS-record found for domain: kicks-ass.org .
+False x6.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x6.nymnom.net. .
+False x5.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x5.nymnom.net. .
+False x4.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x4.nymnom.net. .
+False x3.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x3.nymnom.net. .
+False x2.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x2.nymnom.net. .
+False x1.nymnom.net. nym.gr
+[.] No Zone for domain: nym.gr by NS: x1.nymnom.net. .
+[-] No NS-record found for domain: nym.gr .
+False False bs
+[.] No Zone for domain: bs by NS: False .
+[-] No NS-record found for domain: bs .
+False False hiphop
+[.] No Zone for domain: hiphop by NS: False .
+[-] No NS-record found for domain: hiphop .
+False a-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: a-dns.pl. .
+False b-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: b-dns.pl. .
+False c-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: c-dns.pl. .
+False d-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: d-dns.pl. .
+False e-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: e-dns.pl. .
+False f-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: f-dns.pl. .
+False g-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: g-dns.pl. .
+False h-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: h-dns.pl. .
+False i-dns.pl. org.pl
+[.] No Zone for domain: org.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: org.pl .
+False ns2.prgmr.com. xen.prgmr.com
+[.] No Zone for domain: xen.prgmr.com by NS: ns2.prgmr.com. .
+False ns3.prgmr.com. xen.prgmr.com
+[.] No Zone for domain: xen.prgmr.com by NS: ns3.prgmr.com. .
+False ns.prgmr.com. xen.prgmr.com
+[.] No Zone for domain: xen.prgmr.com by NS: ns.prgmr.com. .
+[-] No NS-record found for domain: xen.prgmr.com .
+False x.nic.no. krødsherad.no
+[.] No Zone for domain: krødsherad.no by NS: x.nic.no. .
+False y.nic.no. krødsherad.no
+[.] No Zone for domain: krødsherad.no by NS: y.nic.no. .
+False z.nic.no. krødsherad.no
+[.] No Zone for domain: krødsherad.no by NS: z.nic.no. .
+[-] No NS-record found for domain: krødsherad.no .
+False ans1.aso.ee. riik.ee
+[.] No Zone for domain: riik.ee by NS: ans1.aso.ee. .
+False ans2.aso.ee. riik.ee
+[.] No Zone for domain: riik.ee by NS: ans2.aso.ee. .
+[-] No NS-record found for domain: riik.ee .
+False y.nic.no. sandoy.no
+[.] No Zone for domain: sandoy.no by NS: y.nic.no. .
+False z.nic.no. sandoy.no
+[.] No Zone for domain: sandoy.no by NS: z.nic.no. .
+False x.nic.no. sandoy.no
+[.] No Zone for domain: sandoy.no by NS: x.nic.no. .
+[-] No NS-record found for domain: sandoy.no .
+[-] Timeout hit.
+[end] No more line in tld pipline.
