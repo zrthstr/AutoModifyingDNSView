@@ -14,6 +14,9 @@ jobs:
     - name: checkout
       id: fiirst
       uses: actions/checkout@v2
+    - name: make install_py_dep
+      id: make_install_py_dep
+      uses: make install_py_dep
     - name: make get_zone
       id: make_get_zone
       run: make get_zone
