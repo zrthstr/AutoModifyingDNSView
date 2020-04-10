@@ -7,6 +7,9 @@ ZONES_LOG= zones.log
 #test:
 #	echo ABCEDFG >> data.list
 
+install_py_dep:
+	pip3 install -r requirements.txt
+
 update_tld_file:
 	rm -rf /effective_tld_names.dat
 	curl https://publicsuffix.org/list/effective_tld_names.dat -o $(TLD_LIST)
