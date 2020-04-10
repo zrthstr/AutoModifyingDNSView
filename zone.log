@@ -1074,3 +1074,224 @@ False g.dns.cn. tw.cn
 [-] No NS-record found for domain: tw.cn .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 07:02:06 UTC 2020
+False False yusuhara.kochi.jp
+[.] No Zone for domain: yusuhara.kochi.jp by NS: False .
+[-] No NS-record found for domain: yusuhara.kochi.jp .
+False False mashiko.tochigi.jp
+[.] No Zone for domain: mashiko.tochigi.jp by NS: False .
+[-] No NS-record found for domain: mashiko.tochigi.jp .
+False False krym.ua
+[.] No Zone for domain: krym.ua by NS: False .
+[-] No NS-record found for domain: krym.ua .
+False phloem.uoregon.edu. edu.do
+[.] No Zone for domain: edu.do by NS: phloem.uoregon.edu. .
+False ns1.nic.do. edu.do
+[.] No Zone for domain: edu.do by NS: ns1.nic.do. .
+False a.lactld.org. edu.do
+[.] No Zone for domain: edu.do by NS: a.lactld.org. .
+False ns.nic.do. edu.do
+[.] No Zone for domain: edu.do by NS: ns.nic.do. .
+False ns3.nic.mx. edu.do
+[.] No Zone for domain: edu.do by NS: ns3.nic.mx. .
+False ns4.nic.do. edu.do
+[.] No Zone for domain: edu.do by NS: ns4.nic.do. .
+False ns2.nic.do. edu.do
+[.] No Zone for domain: edu.do by NS: ns2.nic.do. .
+False ns5.nic.do. edu.do
+[.] No Zone for domain: edu.do by NS: ns5.nic.do. .
+[-] No NS-record found for domain: edu.do .
+False q.au. qld.au
+[.] No Zone for domain: qld.au by NS: q.au. .
+False r.au. qld.au
+[.] No Zone for domain: qld.au by NS: r.au. .
+False s.au. qld.au
+[.] No Zone for domain: qld.au by NS: s.au. .
+False t.au. qld.au
+[.] No Zone for domain: qld.au by NS: t.au. .
+[-] No NS-record found for domain: qld.au .
+False False shirosato.ibaraki.jp
+[.] No Zone for domain: shirosato.ibaraki.jp by NS: False .
+[-] No NS-record found for domain: shirosato.ibaraki.jp .
+False na-ns.anycast.pch.net. com.na
+[.] No Zone for domain: com.na by NS: na-ns.anycast.pch.net. .
+False ns-na.afrinic.net. com.na
+[.] No Zone for domain: com.na by NS: ns-na.afrinic.net. .
+False katima.omadhina.net. com.na
+[.] No Zone for domain: com.na by NS: katima.omadhina.net. .
+[-] No NS-record found for domain: com.na .
+False False ako.hyogo.jp
+[.] No Zone for domain: ako.hyogo.jp by NS: False .
+[-] No NS-record found for domain: ako.hyogo.jp .
+False False yakumo.hokkaido.jp
+[.] No Zone for domain: yakumo.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: yakumo.hokkaido.jp .
+False False yonabaru.okinawa.jp
+[.] No Zone for domain: yonabaru.okinawa.jp by NS: False .
+[-] No NS-record found for domain: yonabaru.okinawa.jp .
+False False takikawa.hokkaido.jp
+[.] No Zone for domain: takikawa.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: takikawa.hokkaido.jp .
+False ns-282.awsdns-35.com. remotewd.com
+[.] No Zone for domain: remotewd.com by NS: ns-282.awsdns-35.com. .
+False ns-821.awsdns-38.net. remotewd.com
+[.] No Zone for domain: remotewd.com by NS: ns-821.awsdns-38.net. .
+False ns-1542.awsdns-00.co.uk. remotewd.com
+[.] No Zone for domain: remotewd.com by NS: ns-1542.awsdns-00.co.uk. .
+False ns-1026.awsdns-00.org. remotewd.com
+[.] No Zone for domain: remotewd.com by NS: ns-1026.awsdns-00.org. .
+[-] No NS-record found for domain: remotewd.com .
+False False cbre
+[.] No Zone for domain: cbre by NS: False .
+[-] No NS-record found for domain: cbre .
+False False u.bg
+[.] No Zone for domain: u.bg by NS: False .
+[-] No NS-record found for domain: u.bg .
+False False bunkyo.tokyo.jp
+[.] No Zone for domain: bunkyo.tokyo.jp by NS: False .
+[-] No NS-record found for domain: bunkyo.tokyo.jp .
+False False grainger
+[.] No Zone for domain: grainger by NS: False .
+[-] No NS-record found for domain: grainger .
+False y.nic.no. skierva.no
+[.] No Zone for domain: skierva.no by NS: y.nic.no. .
+False x.nic.no. skierva.no
+[.] No Zone for domain: skierva.no by NS: x.nic.no. .
+False z.nic.no. skierva.no
+[.] No Zone for domain: skierva.no by NS: z.nic.no. .
+[-] No NS-record found for domain: skierva.no .
+False False sandvikcoromant
+[.] No Zone for domain: sandvikcoromant by NS: False .
+[-] No NS-record found for domain: sandvikcoromant .
+False ns.kh.ua. lg.ua
+[.] No Zone for domain: lg.ua by NS: ns.kh.ua. .
+False ns.dn.ua. lg.ua
+[.] No Zone for domain: lg.ua by NS: ns.dn.ua. .
+False ns.zp.ua. lg.ua
+[.] No Zone for domain: lg.ua by NS: ns.zp.ua. .
+False ns.sm.ua. lg.ua
+[.] No Zone for domain: lg.ua by NS: ns.sm.ua. .
+False ho1.eunic.net.ua. lg.ua
+[.] No Zone for domain: lg.ua by NS: ho1.eunic.net.ua. .
+[-] No NS-record found for domain: lg.ua .
+False y.nic.no. kvinnherad.no
+[.] No Zone for domain: kvinnherad.no by NS: y.nic.no. .
+False z.nic.no. kvinnherad.no
+[.] No Zone for domain: kvinnherad.no by NS: z.nic.no. .
+False x.nic.no. kvinnherad.no
+[.] No Zone for domain: kvinnherad.no by NS: x.nic.no. .
+[-] No NS-record found for domain: kvinnherad.no .
+False x.nic.no. namsos.no
+[.] No Zone for domain: namsos.no by NS: x.nic.no. .
+False z.nic.no. namsos.no
+[.] No Zone for domain: namsos.no by NS: z.nic.no. .
+False y.nic.no. namsos.no
+[.] No Zone for domain: namsos.no by NS: y.nic.no. .
+[-] No NS-record found for domain: namsos.no .
+False a-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: a-dns.pl. .
+False b-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: b-dns.pl. .
+False c-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: c-dns.pl. .
+False d-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: d-dns.pl. .
+False e-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: e-dns.pl. .
+False f-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: f-dns.pl. .
+False g-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: g-dns.pl. .
+False h-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: h-dns.pl. .
+False i-dns.pl. mail.pl
+[.] No Zone for domain: mail.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: mail.pl .
+False False alabama.museum
+[.] No Zone for domain: alabama.museum by NS: False .
+[-] No NS-record found for domain: alabama.museum .
+False a-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: a-dns.pl. .
+False b-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: b-dns.pl. .
+False c-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: c-dns.pl. .
+False e-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: e-dns.pl. .
+False f-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: f-dns.pl. .
+False g-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: g-dns.pl. .
+False h-dns.pl. swiebodzin.pl
+[.] No Zone for domain: swiebodzin.pl by NS: h-dns.pl. .
+[-] No NS-record found for domain: swiebodzin.pl .
+False False compare
+[.] No Zone for domain: compare by NS: False .
+[-] No NS-record found for domain: compare .
+False dns1.lifetime.hosting. co.education
+[.] No Zone for domain: co.education by NS: dns1.lifetime.hosting. .
+False dns2.lifetime.hosting. co.education
+[.] No Zone for domain: co.education by NS: dns2.lifetime.hosting. .
+[-] No NS-record found for domain: co.education .
+False False olbia-tempio.it
+[.] No Zone for domain: olbia-tempio.it by NS: False .
+[-] No NS-record found for domain: olbia-tempio.it .
+False False osakikamijima.hiroshima.jp
+[.] No Zone for domain: osakikamijima.hiroshima.jp by NS: False .
+[-] No NS-record found for domain: osakikamijima.hiroshima.jp .
+False False axis.museum
+[.] No Zone for domain: axis.museum by NS: False .
+[-] No NS-record found for domain: axis.museum .
+False ns3.dyndns.org. dyndns-blog.com
+[.] No Zone for domain: dyndns-blog.com by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. dyndns-blog.com
+[.] No Zone for domain: dyndns-blog.com by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. dyndns-blog.com
+[.] No Zone for domain: dyndns-blog.com by NS: ns5.dyndns.org. .
+False ns1.dyndns.org. dyndns-blog.com
+[.] No Zone for domain: dyndns-blog.com by NS: ns1.dyndns.org. .
+[-] No NS-record found for domain: dyndns-blog.com .
+False False sagae.yamagata.jp
+[.] No Zone for domain: sagae.yamagata.jp by NS: False .
+[-] No NS-record found for domain: sagae.yamagata.jp .
+False False kasuya.fukuoka.jp
+[.] No Zone for domain: kasuya.fukuoka.jp by NS: False .
+[-] No NS-record found for domain: kasuya.fukuoka.jp .
+False ddns-ns1.quickconnect.to. familyds.net
+[.] No Zone for domain: familyds.net by NS: ddns-ns1.quickconnect.to. .
+False ddns-ns2.quickconnect.to. familyds.net
+[.] No Zone for domain: familyds.net by NS: ddns-ns2.quickconnect.to. .
+[-] No NS-record found for domain: familyds.net .
+False y.nic.no. arna.no
+[.] No Zone for domain: arna.no by NS: y.nic.no. .
+False z.nic.no. arna.no
+[.] No Zone for domain: arna.no by NS: z.nic.no. .
+False x.nic.no. arna.no
+[.] No Zone for domain: arna.no by NS: x.nic.no. .
+[-] No NS-record found for domain: arna.no .
+False False co.am
+[.] No Zone for domain: co.am by NS: False .
+[-] No NS-record found for domain: co.am .
+False False eu-1.evennode.com
+[.] No Zone for domain: eu-1.evennode.com by NS: False .
+[-] No NS-record found for domain: eu-1.evennode.com .
+False False otofuke.hokkaido.jp
+[.] No Zone for domain: otofuke.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: otofuke.hokkaido.jp .
+False False ryugasaki.ibaraki.jp
+[.] No Zone for domain: ryugasaki.ibaraki.jp by NS: False .
+[-] No NS-record found for domain: ryugasaki.ibaraki.jp .
+False False williamhill
+[.] No Zone for domain: williamhill by NS: False .
+[-] No NS-record found for domain: williamhill .
+False False 飞利浦
+[.] No Zone for domain: 飞利浦 by NS: False .
+[-] No NS-record found for domain: 飞利浦 .
+False False shima.mie.jp
+[.] No Zone for domain: shima.mie.jp by NS: False .
+[-] No NS-record found for domain: shima.mie.jp .
+False False tempio-olbia.it
+[.] No Zone for domain: tempio-olbia.it by NS: False .
+[-] No NS-record found for domain: tempio-olbia.it .
+[-] Timeout hit.
+[end] No more line in tld pipline.
