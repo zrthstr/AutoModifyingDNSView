@@ -327,3 +327,220 @@ False OZ.WOLFHUGEL.EU. cn.eu.org
 [-] No NS-record found for domain: cn.eu.org .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 03:02:17 UTC 2020
+False z.nic.no. mandal.no
+[.] No Zone for domain: mandal.no by NS: z.nic.no. .
+False x.nic.no. mandal.no
+[.] No Zone for domain: mandal.no by NS: x.nic.no. .
+False y.nic.no. mandal.no
+[.] No Zone for domain: mandal.no by NS: y.nic.no. .
+[-] No NS-record found for domain: mandal.no .
+False False kiwi
+[.] No Zone for domain: kiwi by NS: False .
+[-] No NS-record found for domain: kiwi .
+False False miki.hyogo.jp
+[.] No Zone for domain: miki.hyogo.jp by NS: False .
+[-] No NS-record found for domain: miki.hyogo.jp .
+False b.ns.tznic.or.tz. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: b.ns.tznic.or.tz. .
+False ns.anycast.kenic.or.ke. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: ns.anycast.kenic.or.ke. .
+False kenic.anycastdns.cz. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: kenic.anycastdns.cz. .
+False mzizi.kenic.or.ke. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: mzizi.kenic.or.ke. .
+False ns-ke.afrinic.net. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: ns-ke.afrinic.net. .
+False ns2ke.dns.business. mobi.ke
+[.] No Zone for domain: mobi.ke by NS: ns2ke.dns.business. .
+[-] No NS-record found for domain: mobi.ke .
+False False hamamatsu.shizuoka.jp
+[.] No Zone for domain: hamamatsu.shizuoka.jp by NS: False .
+[-] No NS-record found for domain: hamamatsu.shizuoka.jp .
+False jill.ns.cloudflare.com. de.cool
+[.] No Zone for domain: de.cool by NS: jill.ns.cloudflare.com. .
+False jake.ns.cloudflare.com. de.cool
+[.] No Zone for domain: de.cool by NS: jake.ns.cloudflare.com. .
+[-] No NS-record found for domain: de.cool .
+False ns.dn.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns.dn.ua. .
+False ns.te.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns.te.ua. .
+False nix.ns.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: nix.ns.ua. .
+False ns2.km.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns2.km.ua. .
+False ns2.uar.net. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns2.uar.net. .
+[-] No NS-record found for domain: ternopil.ua .
+False ns1.nc.gov. cc.nc.us
+[.] No Zone for domain: cc.nc.us by NS: ns1.nc.gov. .
+False ncnoc.ncren.net. cc.nc.us
+[.] No Zone for domain: cc.nc.us by NS: ncnoc.ncren.net. .
+False ns2.state.nc.us. cc.nc.us
+[.] No Zone for domain: cc.nc.us by NS: ns2.state.nc.us. .
+False reggae.ncren.net. cc.nc.us
+[.] No Zone for domain: cc.nc.us by NS: reggae.ncren.net. .
+[-] No NS-record found for domain: cc.nc.us .
+False False shichikashuku.miyagi.jp
+[.] No Zone for domain: shichikashuku.miyagi.jp by NS: False .
+[-] No NS-record found for domain: shichikashuku.miyagi.jp .
+False False shinkamigoto.nagasaki.jp
+[.] No Zone for domain: shinkamigoto.nagasaki.jp by NS: False .
+[-] No NS-record found for domain: shinkamigoto.nagasaki.jp .
+False x.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: x.nic.no. .
+False y.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: y.nic.no. .
+False z.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: z.nic.no. .
+[-] No NS-record found for domain: fylkesbibl.no .
+False False spectrum.myjino.ru
+[.] No Zone for domain: spectrum.myjino.ru by NS: False .
+[-] No NS-record found for domain: spectrum.myjino.ru .
+False jake.ns.cloudflare.com. de.cool
+[.] No Zone for domain: de.cool by NS: jake.ns.cloudflare.com. .
+False jill.ns.cloudflare.com. de.cool
+[.] No Zone for domain: de.cool by NS: jill.ns.cloudflare.com. .
+[-] No NS-record found for domain: de.cool .
+False False viva
+[.] No Zone for domain: viva by NS: False .
+[-] No NS-record found for domain: viva .
+False y.nic.no. mjondalen.no
+[.] No Zone for domain: mjondalen.no by NS: y.nic.no. .
+False x.nic.no. mjondalen.no
+[.] No Zone for domain: mjondalen.no by NS: x.nic.no. .
+False z.nic.no. mjondalen.no
+[.] No Zone for domain: mjondalen.no by NS: z.nic.no. .
+[-] No NS-record found for domain: mjondalen.no .
+False False zushi.kanagawa.jp
+[.] No Zone for domain: zushi.kanagawa.jp by NS: False .
+[-] No NS-record found for domain: zushi.kanagawa.jp .
+False False us-2.evennode.com
+[.] No Zone for domain: us-2.evennode.com by NS: False .
+[-] No NS-record found for domain: us-2.evennode.com .
+False ns1.traffichosting.com. per.la
+[.] No Zone for domain: per.la by NS: ns1.traffichosting.com. .
+False ns2.traffichosting.com. per.la
+[.] No Zone for domain: per.la by NS: ns2.traffichosting.com. .
+[-] No NS-record found for domain: per.la .
+False False fm.it
+[.] No Zone for domain: fm.it by NS: False .
+[-] No NS-record found for domain: fm.it .
+False s2.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: s2.dns.sa. .
+False i1.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: i1.dns.sa. .
+False n1.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: n1.dns.sa. .
+False p1.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: p1.dns.sa. .
+False s1.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: s1.dns.sa. .
+False c1.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: c1.dns.sa. .
+False c2.dns.sa. sch.sa
+[.] No Zone for domain: sch.sa by NS: c2.dns.sa. .
+[-] No NS-record found for domain: sch.sa .
+False ns-s.nic.hu. tozsde.hu
+[.] No Zone for domain: tozsde.hu by NS: ns-s.nic.hu. .
+False b.hu. tozsde.hu
+[.] No Zone for domain: tozsde.hu by NS: b.hu. .
+False d.hu. tozsde.hu
+[.] No Zone for domain: tozsde.hu by NS: d.hu. .
+False a.hu. tozsde.hu
+[.] No Zone for domain: tozsde.hu by NS: a.hu. .
+False c.hu. tozsde.hu
+[.] No Zone for domain: tozsde.hu by NS: c.hu. .
+[-] No NS-record found for domain: tozsde.hu .
+False x.nic.no. åkrehamn.no
+[.] No Zone for domain: åkrehamn.no by NS: x.nic.no. .
+False z.nic.no. åkrehamn.no
+[.] No Zone for domain: åkrehamn.no by NS: z.nic.no. .
+False y.nic.no. åkrehamn.no
+[.] No Zone for domain: åkrehamn.no by NS: y.nic.no. .
+[-] No NS-record found for domain: åkrehamn.no .
+False a.tld.ma. press.ma
+[.] No Zone for domain: press.ma by NS: a.tld.ma. .
+False dns.inria.fr. press.ma
+[.] No Zone for domain: press.ma by NS: dns.inria.fr. .
+False b.tld.ma. press.ma
+[.] No Zone for domain: press.ma by NS: b.tld.ma. .
+False ns-ma.nic.fr. press.ma
+[.] No Zone for domain: press.ma by NS: ns-ma.nic.fr. .
+False d.tld.ma. press.ma
+[.] No Zone for domain: press.ma by NS: d.tld.ma. .
+False c.tld.ma. press.ma
+[.] No Zone for domain: press.ma by NS: c.tld.ma. .
+False e.tld.ma. press.ma
+[.] No Zone for domain: press.ma by NS: e.tld.ma. .
+[-] No NS-record found for domain: press.ma .
+False ns1.mfn2.myflorida.com. k12.fl.us
+[.] No Zone for domain: k12.fl.us by NS: ns1.mfn2.myflorida.com. .
+False ns2.mfn2.myflorida.com. k12.fl.us
+[.] No Zone for domain: k12.fl.us by NS: ns2.mfn2.myflorida.com. .
+False ns1.firn.edu. k12.fl.us
+[.] No Zone for domain: k12.fl.us by NS: ns1.firn.edu. .
+False ns2.firn.edu. k12.fl.us
+[.] No Zone for domain: k12.fl.us by NS: ns2.firn.edu. .
+[-] No NS-record found for domain: k12.fl.us .
+False False family.museum
+[.] No Zone for domain: family.museum by NS: False .
+[-] No NS-record found for domain: family.museum .
+False ns1.cenpac.net.nr. info.nr
+[.] No Zone for domain: info.nr by NS: ns1.cenpac.net.nr. .
+False ns0.cenpac.net.nr. info.nr
+[.] No Zone for domain: info.nr by NS: ns0.cenpac.net.nr. .
+[-] No NS-record found for domain: info.nr .
+False nf1.no-ip.com. health-carereform.com
+[.] No Zone for domain: health-carereform.com by NS: nf1.no-ip.com. .
+False nf2.no-ip.com. health-carereform.com
+[.] No Zone for domain: health-carereform.com by NS: nf2.no-ip.com. .
+False nf3.no-ip.com. health-carereform.com
+[.] No Zone for domain: health-carereform.com by NS: nf3.no-ip.com. .
+False nf4.no-ip.com. health-carereform.com
+[.] No Zone for domain: health-carereform.com by NS: nf4.no-ip.com. .
+[-] No NS-record found for domain: health-carereform.com .
+False False 大拿
+[.] No Zone for domain: 大拿 by NS: False .
+[-] No NS-record found for domain: 大拿 .
+False False and.museum
+[.] No Zone for domain: and.museum by NS: False .
+[-] No NS-record found for domain: and.museum .
+False False scot
+[.] No Zone for domain: scot by NS: False .
+[-] No NS-record found for domain: scot .
+False False fm
+[.] No Zone for domain: fm by NS: False .
+[-] No NS-record found for domain: fm .
+False False bologna.it
+[.] No Zone for domain: bologna.it by NS: False .
+[-] No NS-record found for domain: bologna.it .
+False False science-fiction.museum
+[.] No Zone for domain: science-fiction.museum by NS: False .
+[-] No NS-record found for domain: science-fiction.museum .
+False lns42.nic.tr. kep.tr
+[.] No Zone for domain: kep.tr by NS: lns42.nic.tr. .
+False lns5.nic.tr. kep.tr
+[.] No Zone for domain: kep.tr by NS: lns5.nic.tr. .
+False lns21.nic.tr. kep.tr
+[.] No Zone for domain: kep.tr by NS: lns21.nic.tr. .
+False lns22.nic.tr. kep.tr
+[.] No Zone for domain: kep.tr by NS: lns22.nic.tr. .
+False lns41.nic.tr. kep.tr
+[.] No Zone for domain: kep.tr by NS: lns41.nic.tr. .
+[-] No NS-record found for domain: kep.tr .
+False f1g1ns2.dnspod.net. asso.ci
+[.] No Zone for domain: asso.ci by NS: f1g1ns2.dnspod.net. .
+False f1g1ns1.dnspod.net. asso.ci
+[.] No Zone for domain: asso.ci by NS: f1g1ns1.dnspod.net. .
+[-] No NS-record found for domain: asso.ci .
+False y.nic.no. sørreisa.no
+[.] No Zone for domain: sørreisa.no by NS: y.nic.no. .
+False z.nic.no. sørreisa.no
+[.] No Zone for domain: sørreisa.no by NS: z.nic.no. .
+False x.nic.no. sørreisa.no
+[.] No Zone for domain: sørreisa.no by NS: x.nic.no. .
+[-] No NS-record found for domain: sørreisa.no .
+[-] Timeout hit.
+[end] No more line in tld pipline.
