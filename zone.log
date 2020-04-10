@@ -1295,3 +1295,69 @@ False False tempio-olbia.it
 [-] No NS-record found for domain: tempio-olbia.it .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 08:02:23 UTC 2020
+False False y.bg
+[.] No Zone for domain: y.bg by NS: False .
+[-] No NS-record found for domain: y.bg .
+False y.nic.no. bergen.no
+[.] No Zone for domain: bergen.no by NS: y.nic.no. .
+False x.nic.no. bergen.no
+[.] No Zone for domain: bergen.no by NS: x.nic.no. .
+False z.nic.no. bergen.no
+[.] No Zone for domain: bergen.no by NS: z.nic.no. .
+[-] No NS-record found for domain: bergen.no .
+False False aquarium.museum
+[.] No Zone for domain: aquarium.museum by NS: False .
+[-] No NS-record found for domain: aquarium.museum .
+False False 在线
+[.] No Zone for domain: 在线 by NS: False .
+[-] No NS-record found for domain: 在线 .
+False y.nic.no. moareke.no
+[.] No Zone for domain: moareke.no by NS: y.nic.no. .
+False z.nic.no. moareke.no
+[.] No Zone for domain: moareke.no by NS: z.nic.no. .
+False x.nic.no. moareke.no
+[.] No Zone for domain: moareke.no by NS: x.nic.no. .
+[-] No NS-record found for domain: moareke.no .
+False False mtn
+[.] No Zone for domain: mtn by NS: False .
+[-] No NS-record found for domain: mtn .
+False False test.ru
+[.] No Zone for domain: test.ru by NS: False .
+[-] No NS-record found for domain: test.ru .
+False False denmark.museum
+[.] No Zone for domain: denmark.museum by NS: False .
+[-] No NS-record found for domain: denmark.museum .
+False z.nic.no. sørum.no
+[.] No Zone for domain: sørum.no by NS: z.nic.no. .
+False y.nic.no. sørum.no
+[.] No Zone for domain: sørum.no by NS: y.nic.no. .
+False x.nic.no. sørum.no
+[.] No Zone for domain: sørum.no by NS: x.nic.no. .
+[-] No NS-record found for domain: sørum.no .
+False False 石川.jp
+[.] No Zone for domain: 石川.jp by NS: False .
+[-] No NS-record found for domain: 石川.jp .
+False False 在线
+[.] No Zone for domain: 在线 by NS: False .
+[-] No NS-record found for domain: 在线 .
+False False creation.museum
+[.] No Zone for domain: creation.museum by NS: False .
+[-] No NS-record found for domain: creation.museum .
+False False mizumaki.fukuoka.jp
+[.] No Zone for domain: mizumaki.fukuoka.jp by NS: False .
+[-] No NS-record found for domain: mizumaki.fukuoka.jp .
+False False saigawa.fukuoka.jp
+[.] No Zone for domain: saigawa.fukuoka.jp by NS: False .
+[-] No NS-record found for domain: saigawa.fukuoka.jp .
+False False kitagawa.miyazaki.jp
+[.] No Zone for domain: kitagawa.miyazaki.jp by NS: False .
+[-] No NS-record found for domain: kitagawa.miyazaki.jp .
+False False gov.gn
+[.] No Zone for domain: gov.gn by NS: False .
+[-] No NS-record found for domain: gov.gn .
+False False capebreton.museum
+[.] No Zone for domain: capebreton.museum by NS: False .
+[-] No NS-record found for domain: capebreton.museum .
+[-] Timeout hit.
+[end] No more line in tld pipline.
