@@ -1,5 +1,6 @@
 ### "At 00:55 on Thursday."
 on:
+  push:
   schedule:
     - cron: '55 0 * * 4'
 
