@@ -11,7 +11,7 @@ update_tld_file:
 	curl https://publicsuffix.org/list/effective_tld_names.dat -o $(TLD_LIST)
 
 filter_tld_file:
-	cat $(TLD_LIST) | sed 's/[\t ]//g' | grep -v '//' | sed 's/*.//g' | grep -v '^$$' | sort | uniq > $(TLD_LIST_CLEAN)
+	cat $(TLD_LIST) | sed 's/[\t ]//g' |	grep -v '!' |grep -v '//' | sed 's/*.//g' | grep -v '^$$' | sort | uniq > $(TLD_LIST_CLEAN)
 
 censore_tld_file:
 	cat $(TLD_LIST_CLEAN) | grep -v '^mil' > $(TLD_LIST_SANE)
