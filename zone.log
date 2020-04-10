@@ -2915,3 +2915,154 @@ False x.nic.no. sandoy.no
 [-] No NS-record found for domain: sandoy.no .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 19:01:54 UTC 2020
+False False naruto.tokushima.jp
+[.] No Zone for domain: naruto.tokushima.jp by NS: False .
+[-] No NS-record found for domain: naruto.tokushima.jp .
+False ns1.nic.gp. net.gp
+[.] No Zone for domain: net.gp by NS: ns1.nic.gp. .
+False ns2.nic.gp. net.gp
+[.] No Zone for domain: net.gp by NS: ns2.nic.gp. .
+False ns-gp.nic.fr. net.gp
+[.] No Zone for domain: net.gp by NS: ns-gp.nic.fr. .
+[-] No NS-record found for domain: net.gp .
+False ns-246.awsdns-30.com. siteleaf.net
+[.] No Zone for domain: siteleaf.net by NS: ns-246.awsdns-30.com. .
+False ns-818.awsdns-38.net. siteleaf.net
+[.] No Zone for domain: siteleaf.net by NS: ns-818.awsdns-38.net. .
+False ns-1867.awsdns-41.co.uk. siteleaf.net
+[.] No Zone for domain: siteleaf.net by NS: ns-1867.awsdns-41.co.uk. .
+False ns-1356.awsdns-41.org. siteleaf.net
+[.] No Zone for domain: siteleaf.net by NS: ns-1356.awsdns-41.org. .
+[-] No NS-record found for domain: siteleaf.net .
+False False moriyama.shiga.jp
+[.] No Zone for domain: moriyama.shiga.jp by NS: False .
+[-] No NS-record found for domain: moriyama.shiga.jp .
+False False shinagawa.tokyo.jp
+[.] No Zone for domain: shinagawa.tokyo.jp by NS: False .
+[-] No NS-record found for domain: shinagawa.tokyo.jp .
+False ns.ucad.sn. edu.sn
+[.] No Zone for domain: edu.sn by NS: ns.ucad.sn. .
+False ns.nic.sn. edu.sn
+[.] No Zone for domain: edu.sn by NS: ns.nic.sn. .
+False dns.ucad.sn. edu.sn
+[.] No Zone for domain: edu.sn by NS: dns.ucad.sn. .
+[-] No NS-record found for domain: edu.sn .
+False False shikokuchuo.ehime.jp
+[.] No Zone for domain: shikokuchuo.ehime.jp by NS: False .
+[-] No NS-record found for domain: shikokuchuo.ehime.jp .
+False ns-1313.awsdns-36.org. dev.adobeaemcloud.com
+[.] No Zone for domain: dev.adobeaemcloud.com by NS: ns-1313.awsdns-36.org. .
+False ns-1915.awsdns-47.co.uk. dev.adobeaemcloud.com
+[.] No Zone for domain: dev.adobeaemcloud.com by NS: ns-1915.awsdns-47.co.uk. .
+False ns-347.awsdns-43.com. dev.adobeaemcloud.com
+[.] No Zone for domain: dev.adobeaemcloud.com by NS: ns-347.awsdns-43.com. .
+False ns-808.awsdns-37.net. dev.adobeaemcloud.com
+[.] No Zone for domain: dev.adobeaemcloud.com by NS: ns-808.awsdns-37.net. .
+[-] No NS-record found for domain: dev.adobeaemcloud.com .
+False False gold
+[.] No Zone for domain: gold by NS: False .
+[-] No NS-record found for domain: gold .
+False ns4.smallregistry.net. chirurgiens-dentistes.fr
+[.] No Zone for domain: chirurgiens-dentistes.fr by NS: ns4.smallregistry.net. .
+False ns1.smallregistry.net. chirurgiens-dentistes.fr
+[.] No Zone for domain: chirurgiens-dentistes.fr by NS: ns1.smallregistry.net. .
+False ns2.smallregistry.net. chirurgiens-dentistes.fr
+[.] No Zone for domain: chirurgiens-dentistes.fr by NS: ns2.smallregistry.net. .
+False ns3.smallregistry.net. chirurgiens-dentistes.fr
+[.] No Zone for domain: chirurgiens-dentistes.fr by NS: ns3.smallregistry.net. .
+[-] No NS-record found for domain: chirurgiens-dentistes.fr .
+False s1.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: s1.dns.sa. .
+False s2.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: s2.dns.sa. .
+False i1.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: i1.dns.sa. .
+False c2.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: c2.dns.sa. .
+False n1.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: n1.dns.sa. .
+False p1.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: p1.dns.sa. .
+False c1.dns.sa. com.sa
+[.] No Zone for domain: com.sa by NS: c1.dns.sa. .
+[-] No NS-record found for domain: com.sa .
+False False lexus
+[.] No Zone for domain: lexus by NS: False .
+[-] No NS-record found for domain: lexus .
+False False schwarz
+[.] No Zone for domain: schwarz by NS: False .
+[-] No NS-record found for domain: schwarz .
+False ns3.dyndns.org. barrell-of-knowledge.info
+[.] No Zone for domain: barrell-of-knowledge.info by NS: ns3.dyndns.org. .
+False ns5.dyndns.org. barrell-of-knowledge.info
+[.] No Zone for domain: barrell-of-knowledge.info by NS: ns5.dyndns.org. .
+False ns4.dyndns.org. barrell-of-knowledge.info
+[.] No Zone for domain: barrell-of-knowledge.info by NS: ns4.dyndns.org. .
+False ns1.dyndns.org. barrell-of-knowledge.info
+[.] No Zone for domain: barrell-of-knowledge.info by NS: ns1.dyndns.org. .
+[-] No NS-record found for domain: barrell-of-knowledge.info .
+False False shimodate.ibaraki.jp
+[.] No Zone for domain: shimodate.ibaraki.jp by NS: False .
+[-] No NS-record found for domain: shimodate.ibaraki.jp .
+False a0.pro.afilias-nst.info. aca.pro
+[.] No Zone for domain: aca.pro by NS: a0.pro.afilias-nst.info. .
+False a2.pro.afilias-nst.info. aca.pro
+[.] No Zone for domain: aca.pro by NS: a2.pro.afilias-nst.info. .
+False b0.pro.afilias-nst.org. aca.pro
+[.] No Zone for domain: aca.pro by NS: b0.pro.afilias-nst.org. .
+False b2.pro.afilias-nst.org. aca.pro
+[.] No Zone for domain: aca.pro by NS: b2.pro.afilias-nst.org. .
+False c0.pro.afilias-nst.info. aca.pro
+[.] No Zone for domain: aca.pro by NS: c0.pro.afilias-nst.info. .
+False d0.pro.afilias-nst.org. aca.pro
+[.] No Zone for domain: aca.pro by NS: d0.pro.afilias-nst.org. .
+[-] No NS-record found for domain: aca.pro .
+False False accident-prevention.aero
+[.] No Zone for domain: accident-prevention.aero by NS: False .
+[-] No NS-record found for domain: accident-prevention.aero .
+False False financial
+[.] No Zone for domain: financial by NS: False .
+[-] No NS-record found for domain: financial .
+False False store.ro
+[.] No Zone for domain: store.ro by NS: False .
+[-] No NS-record found for domain: store.ro .
+False False members.linode.com
+[.] No Zone for domain: members.linode.com by NS: False .
+[-] No NS-record found for domain: members.linode.com .
+False False skype
+[.] No Zone for domain: skype by NS: False .
+[-] No NS-record found for domain: skype .
+False False gb
+[.] No Zone for domain: gb by NS: False .
+[-] No NS-record found for domain: gb .
+False False fermo.it
+[.] No Zone for domain: fermo.it by NS: False .
+[-] No NS-record found for domain: fermo.it .
+False False tanohata.iwate.jp
+[.] No Zone for domain: tanohata.iwate.jp by NS: False .
+[-] No NS-record found for domain: tanohata.iwate.jp .
+False False dental
+[.] No Zone for domain: dental by NS: False .
+[-] No NS-record found for domain: dental .
+False False science
+[.] No Zone for domain: science by NS: False .
+[-] No NS-record found for domain: science .
+False False yamanouchi.nagano.jp
+[.] No Zone for domain: yamanouchi.nagano.jp by NS: False .
+[-] No NS-record found for domain: yamanouchi.nagano.jp .
+False ba1.ns.ua. cherkassy.ua
+[.] No Zone for domain: cherkassy.ua by NS: ba1.ns.ua. .
+False nix.ns.ua. cherkassy.ua
+[.] No Zone for domain: cherkassy.ua by NS: nix.ns.ua. .
+False ns2.km.ua. cherkassy.ua
+[.] No Zone for domain: cherkassy.ua by NS: ns2.km.ua. .
+[-] No NS-record found for domain: cherkassy.ua .
+False False موقع
+[.] No Zone for domain: موقع by NS: False .
+[-] No NS-record found for domain: موقع .
+False False ירושלים.museum
+[.] No Zone for domain: ירושלים.museum by NS: False .
+[-] No NS-record found for domain: ירושלים.museum .
+[-] Timeout hit.
+[end] No more line in tld pipline.
