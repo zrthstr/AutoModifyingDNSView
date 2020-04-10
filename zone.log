@@ -2338,3 +2338,26 @@ False False russia.museum
 [-] No NS-record found for domain: russia.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 16:02:21 UTC 2020
+False False bellevue.museum
+[.] No Zone for domain: bellevue.museum by NS: False .
+[-] No NS-record found for domain: bellevue.museum .
+False False onl
+[.] No Zone for domain: onl by NS: False .
+[-] No NS-record found for domain: onl .
+False False hamatama.saga.jp
+[.] No Zone for domain: hamatama.saga.jp by NS: False .
+[-] No NS-record found for domain: hamatama.saga.jp .
+False False kitashiobara.fukushima.jp
+[.] No Zone for domain: kitashiobara.fukushima.jp by NS: False .
+[-] No NS-record found for domain: kitashiobara.fukushima.jp .
+False ns02.gouv.bj. gouv.bj
+[.] No Zone for domain: gouv.bj by NS: ns02.gouv.bj. .
+False ns01.gouv.bj. gouv.bj
+[.] No Zone for domain: gouv.bj by NS: ns01.gouv.bj. .
+[-] No NS-record found for domain: gouv.bj .
+False False trentinosüd-tirol.it
+[.] No Zone for domain: trentinosüd-tirol.it by NS: False .
+[-] No NS-record found for domain: trentinosüd-tirol.it .
+[-] Timeout hit.
+[end] No more line in tld pipline.
