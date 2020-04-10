@@ -6,3 +6,30 @@ False False sweden.museum
 [-] No NS-record found for domain: sweden.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+False y.nic.no. balsfjord.no
+[.] No Zone for domain: balsfjord.no by NS: y.nic.no. .
+False x.nic.no. balsfjord.no
+[.] No Zone for domain: balsfjord.no by NS: x.nic.no. .
+False z.nic.no. balsfjord.no
+[.] No Zone for domain: balsfjord.no by NS: z.nic.no. .
+[-] No NS-record found for domain: balsfjord.no .
+False False vn
+[.] No Zone for domain: vn by NS: False .
+[-] No NS-record found for domain: vn .
+False False storage.yandexcloud.net
+[.] No Zone for domain: storage.yandexcloud.net by NS: False .
+[-] No NS-record found for domain: storage.yandexcloud.net .
+False z.nic.no. granvin.no
+[.] No Zone for domain: granvin.no by NS: z.nic.no. .
+False x.nic.no. granvin.no
+[.] No Zone for domain: granvin.no by NS: x.nic.no. .
+False y.nic.no. granvin.no
+[.] No Zone for domain: granvin.no by NS: y.nic.no. .
+[-] No NS-record found for domain: granvin.no .
+False ns2.edu.kp. edu.kp
+[.] No Zone for domain: edu.kp by NS: ns2.edu.kp. .
+False ns1.edu.kp. edu.kp
+[.] No Zone for domain: edu.kp by NS: ns1.edu.kp. .
+[-] No NS-record found for domain: edu.kp .
+[-] Timeout hit.
+[end] No more line in tld pipline.
