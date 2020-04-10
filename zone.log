@@ -867,3 +867,9 @@ False False tarumizu.kagoshima.jp
 [-] No NS-record found for domain: tarumizu.kagoshima.jp .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 05:02:02 UTC 2020
+False False blogspot.mr
+[.] No Zone for domain: blogspot.mr by NS: False .
+[-] No NS-record found for domain: blogspot.mr .
+[-] Timeout hit.
+[end] No more line in tld pipline.
