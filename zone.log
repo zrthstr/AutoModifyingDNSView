@@ -1812,3 +1812,277 @@ False False chiropractic.museum
 [-] No NS-record found for domain: chiropractic.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 13:02:05 UTC 2020
+False False topology.museum
+[.] No Zone for domain: topology.museum by NS: False .
+[-] No NS-record found for domain: topology.museum .
+False False 山口.jp
+[.] No Zone for domain: 山口.jp by NS: False .
+[-] No NS-record found for domain: 山口.jp .
+False False sassari.it
+[.] No Zone for domain: sassari.it by NS: False .
+[-] No NS-record found for domain: sassari.it .
+False ns1.cloudns.net. cloudns.org
+[.] No Zone for domain: cloudns.org by NS: ns1.cloudns.net. .
+False ns2.cloudns.net. cloudns.org
+[.] No Zone for domain: cloudns.org by NS: ns2.cloudns.net. .
+False ns3.cloudns.net. cloudns.org
+[.] No Zone for domain: cloudns.org by NS: ns3.cloudns.net. .
+False ns4.cloudns.net. cloudns.org
+[.] No Zone for domain: cloudns.org by NS: ns4.cloudns.net. .
+[-] No NS-record found for domain: cloudns.org .
+False False 和歌山.jp
+[.] No Zone for domain: 和歌山.jp by NS: False .
+[-] No NS-record found for domain: 和歌山.jp .
+False z.nic.no. báhcavuotna.no
+[.] No Zone for domain: báhcavuotna.no by NS: z.nic.no. .
+False y.nic.no. báhcavuotna.no
+[.] No Zone for domain: báhcavuotna.no by NS: y.nic.no. .
+False x.nic.no. báhcavuotna.no
+[.] No Zone for domain: báhcavuotna.no by NS: x.nic.no. .
+[-] No NS-record found for domain: báhcavuotna.no .
+False False inuyama.aichi.jp
+[.] No Zone for domain: inuyama.aichi.jp by NS: False .
+[-] No NS-record found for domain: inuyama.aichi.jp .
+False y.nic.no. lom.no
+[.] No Zone for domain: lom.no by NS: y.nic.no. .
+False x.nic.no. lom.no
+[.] No Zone for domain: lom.no by NS: x.nic.no. .
+False z.nic.no. lom.no
+[.] No Zone for domain: lom.no by NS: z.nic.no. .
+[-] No NS-record found for domain: lom.no .
+False webns1.telecom.tm. com.tm
+[.] No Zone for domain: com.tm by NS: webns1.telecom.tm. .
+False webns2.telecom.tm. com.tm
+[.] No Zone for domain: com.tm by NS: webns2.telecom.tm. .
+[-] No NS-record found for domain: com.tm .
+False False stream
+[.] No Zone for domain: stream by NS: False .
+[-] No NS-record found for domain: stream .
+False z.nic.no. nååmesjevuemie.no
+[.] No Zone for domain: nååmesjevuemie.no by NS: z.nic.no. .
+False y.nic.no. nååmesjevuemie.no
+[.] No Zone for domain: nååmesjevuemie.no by NS: y.nic.no. .
+False x.nic.no. nååmesjevuemie.no
+[.] No Zone for domain: nååmesjevuemie.no by NS: x.nic.no. .
+[-] No NS-record found for domain: nååmesjevuemie.no .
+False False sa
+[.] No Zone for domain: sa by NS: False .
+[-] No NS-record found for domain: sa .
+False ns3.dyndns.org. dyn-o-saur.com
+[.] No Zone for domain: dyn-o-saur.com by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. dyn-o-saur.com
+[.] No Zone for domain: dyn-o-saur.com by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. dyn-o-saur.com
+[.] No Zone for domain: dyn-o-saur.com by NS: ns5.dyndns.org. .
+False ns1.dyndns.org. dyn-o-saur.com
+[.] No Zone for domain: dyn-o-saur.com by NS: ns1.dyndns.org. .
+[-] No NS-record found for domain: dyn-o-saur.com .
+False False ac.sz
+[.] No Zone for domain: ac.sz by NS: False .
+[-] No NS-record found for domain: ac.sz .
+False False click
+[.] No Zone for domain: click by NS: False .
+[-] No NS-record found for domain: click .
+False False ome.tokyo.jp
+[.] No Zone for domain: ome.tokyo.jp by NS: False .
+[-] No NS-record found for domain: ome.tokyo.jp .
+False False menu
+[.] No Zone for domain: menu by NS: False .
+[-] No NS-record found for domain: menu .
+False False safety
+[.] No Zone for domain: safety by NS: False .
+[-] No NS-record found for domain: safety .
+False ns1.dyndns.org. for-our.info
+[.] No Zone for domain: for-our.info by NS: ns1.dyndns.org. .
+False ns3.dyndns.org. for-our.info
+[.] No Zone for domain: for-our.info by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. for-our.info
+[.] No Zone for domain: for-our.info by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. for-our.info
+[.] No Zone for domain: for-our.info by NS: ns5.dyndns.org. .
+[-] No NS-record found for domain: for-our.info .
+False False basilicata.it
+[.] No Zone for domain: basilicata.it by NS: False .
+[-] No NS-record found for domain: basilicata.it .
+False z.nic.no. sauda.no
+[.] No Zone for domain: sauda.no by NS: z.nic.no. .
+False x.nic.no. sauda.no
+[.] No Zone for domain: sauda.no by NS: x.nic.no. .
+False y.nic.no. sauda.no
+[.] No Zone for domain: sauda.no by NS: y.nic.no. .
+[-] No NS-record found for domain: sauda.no .
+False False tokashiki.okinawa.jp
+[.] No Zone for domain: tokashiki.okinawa.jp by NS: False .
+[-] No NS-record found for domain: tokashiki.okinawa.jp .
+False False shiksha
+[.] No Zone for domain: shiksha by NS: False .
+[-] No NS-record found for domain: shiksha .
+False y.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: y.nic.no. .
+False z.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: z.nic.no. .
+False x.nic.no. fylkesbibl.no
+[.] No Zone for domain: fylkesbibl.no by NS: x.nic.no. .
+[-] No NS-record found for domain: fylkesbibl.no .
+False False er
+[.] No Zone for domain: er by NS: False .
+[-] No NS-record found for domain: er .
+False False edu.co
+[.] No Zone for domain: edu.co by NS: False .
+[-] No NS-record found for domain: edu.co .
+False False mattel
+[.] No Zone for domain: mattel by NS: False .
+[-] No NS-record found for domain: mattel .
+False False kamiizumi.saitama.jp
+[.] No Zone for domain: kamiizumi.saitama.jp by NS: False .
+[-] No NS-record found for domain: kamiizumi.saitama.jp .
+False b1.mynic.my. edu.my
+[.] No Zone for domain: edu.my by NS: b1.mynic.my. .
+False b.nic.my. edu.my
+[.] No Zone for domain: edu.my by NS: b.nic.my. .
+False a.mynic.centralnic-dns.com. edu.my
+[.] No Zone for domain: edu.my by NS: a.mynic.centralnic-dns.com. .
+False b.mynic.centralnic-dns.com. edu.my
+[.] No Zone for domain: edu.my by NS: b.mynic.centralnic-dns.com. .
+False c.mynic.centralnic-dns.com. edu.my
+[.] No Zone for domain: edu.my by NS: c.mynic.centralnic-dns.com. .
+False d.mynic.centralnic-dns.com. edu.my
+[.] No Zone for domain: edu.my by NS: d.mynic.centralnic-dns.com. .
+[-] No NS-record found for domain: edu.my .
+False e.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: e.dns.br. .
+False a.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: a.dns.br. .
+False d.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: d.dns.br. .
+False b.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: b.dns.br. .
+False c.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: c.dns.br. .
+False f.dns.br. coop.br
+[.] No Zone for domain: coop.br by NS: f.dns.br. .
+[-] No NS-record found for domain: coop.br .
+False False izumo.shimane.jp
+[.] No Zone for domain: izumo.shimane.jp by NS: False .
+[-] No NS-record found for domain: izumo.shimane.jp .
+False False paleo.museum
+[.] No Zone for domain: paleo.museum by NS: False .
+[-] No NS-record found for domain: paleo.museum .
+False False kouhoku.saga.jp
+[.] No Zone for domain: kouhoku.saga.jp by NS: False .
+[-] No NS-record found for domain: kouhoku.saga.jp .
+False False sydney
+[.] No Zone for domain: sydney by NS: False .
+[-] No NS-record found for domain: sydney .
+False False 网站
+[.] No Zone for domain: 网站 by NS: False .
+[-] No NS-record found for domain: 网站 .
+False False 网店
+[.] No Zone for domain: 网店 by NS: False .
+[-] No NS-record found for domain: 网店 .
+False ns3.dyndns.org. selfip.com
+[.] No Zone for domain: selfip.com by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. selfip.com
+[.] No Zone for domain: selfip.com by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. selfip.com
+[.] No Zone for domain: selfip.com by NS: ns5.dyndns.org. .
+False ns1.dyndns.org. selfip.com
+[.] No Zone for domain: selfip.com by NS: ns1.dyndns.org. .
+[-] No NS-record found for domain: selfip.com .
+False ns17.ovh.net. computer.museum
+[.] No Zone for domain: computer.museum by NS: ns17.ovh.net. .
+False dns17.ovh.net. computer.museum
+[.] No Zone for domain: computer.museum by NS: dns17.ovh.net. .
+[-] No NS-record found for domain: computer.museum .
+False x.nic.no. randaberg.no
+[.] No Zone for domain: randaberg.no by NS: x.nic.no. .
+False z.nic.no. randaberg.no
+[.] No Zone for domain: randaberg.no by NS: z.nic.no. .
+False y.nic.no. randaberg.no
+[.] No Zone for domain: randaberg.no by NS: y.nic.no. .
+[-] No NS-record found for domain: randaberg.no .
+False False date.fukushima.jp
+[.] No Zone for domain: date.fukushima.jp by NS: False .
+[-] No NS-record found for domain: date.fukushima.jp .
+False False cyber.museum
+[.] No Zone for domain: cyber.museum by NS: False .
+[-] No NS-record found for domain: cyber.museum .
+False a.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: a.dns-servers.vn. .
+False b.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: b.dns-servers.vn. .
+False c.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: c.dns-servers.vn. .
+False d.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: d.dns-servers.vn. .
+False e.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: e.dns-servers.vn. .
+False f.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: f.dns-servers.vn. .
+False g.dns-servers.vn. info.vn
+[.] No Zone for domain: info.vn by NS: g.dns-servers.vn. .
+[-] No NS-record found for domain: info.vn .
+False False photography
+[.] No Zone for domain: photography by NS: False .
+[-] No NS-record found for domain: photography .
+False ns-1335.awsdns-38.org. s3-external-1.amazonaws.com
+[.] No Zone for domain: s3-external-1.amazonaws.com by NS: ns-1335.awsdns-38.org. .
+False ns-2038.awsdns-62.co.uk. s3-external-1.amazonaws.com
+[.] No Zone for domain: s3-external-1.amazonaws.com by NS: ns-2038.awsdns-62.co.uk. .
+False ns-684.awsdns-21.net. s3-external-1.amazonaws.com
+[.] No Zone for domain: s3-external-1.amazonaws.com by NS: ns-684.awsdns-21.net. .
+False ns-70.awsdns-08.com. s3-external-1.amazonaws.com
+[.] No Zone for domain: s3-external-1.amazonaws.com by NS: ns-70.awsdns-08.com. .
+[-] No NS-record found for domain: s3-external-1.amazonaws.com .
+False False duck
+[.] No Zone for domain: duck by NS: False .
+[-] No NS-record found for domain: duck .
+False False beer
+[.] No Zone for domain: beer by NS: False .
+[-] No NS-record found for domain: beer .
+False False graphics
+[.] No Zone for domain: graphics by NS: False .
+[-] No NS-record found for domain: graphics .
+False False kumakogen.ehime.jp
+[.] No Zone for domain: kumakogen.ehime.jp by NS: False .
+[-] No NS-record found for domain: kumakogen.ehime.jp .
+False auth01.ns.uu.net. net.ni
+[.] No Zone for domain: net.ni by NS: auth01.ns.uu.net. .
+False ns.ni. net.ni
+[.] No Zone for domain: net.ni by NS: ns.ni. .
+False ns.ideay.net.ni. net.ni
+[.] No Zone for domain: net.ni by NS: ns.ideay.net.ni. .
+False ns2.ni. net.ni
+[.] No Zone for domain: net.ni by NS: ns2.ni. .
+False dns.nic.cr. net.ni
+[.] No Zone for domain: net.ni by NS: dns.nic.cr. .
+False ns.ibw.com.ni. net.ni
+[.] No Zone for domain: net.ni by NS: ns.ibw.com.ni. .
+[-] No NS-record found for domain: net.ni .
+False False mn
+[.] No Zone for domain: mn by NS: False .
+[-] No NS-record found for domain: mn .
+False NS.eu.org. q-a.eu.org
+[.] No Zone for domain: q-a.eu.org by NS: NS.eu.org. .
+[-] No NS-record found for domain: q-a.eu.org .
+False False kawanishi.nara.jp
+[.] No Zone for domain: kawanishi.nara.jp by NS: False .
+[-] No NS-record found for domain: kawanishi.nara.jp .
+False a-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: a-dns.pl. .
+False b-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: b-dns.pl. .
+False c-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: c-dns.pl. .
+False e-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: e-dns.pl. .
+False f-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: f-dns.pl. .
+False g-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: g-dns.pl. .
+False i-dns.pl. pruszkow.pl
+[.] No Zone for domain: pruszkow.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: pruszkow.pl .
+[-] Timeout hit.
+[end] No more line in tld pipline.
