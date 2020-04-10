@@ -2314,3 +2314,27 @@ False False sap
 [-] No NS-record found for domain: sap .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 15:02:13 UTC 2020
+False b.udrtld.net. ltd.hk
+[.] No Zone for domain: ltd.hk by NS: b.udrtld.net. .
+False dns8.cloudns.net. ltd.hk
+[.] No Zone for domain: ltd.hk by NS: dns8.cloudns.net. .
+False c.udrtld.net. ltd.hk
+[.] No Zone for domain: ltd.hk by NS: c.udrtld.net. .
+False a.udrtld.net. ltd.hk
+[.] No Zone for domain: ltd.hk by NS: a.udrtld.net. .
+False dns7.cloudns.net. ltd.hk
+[.] No Zone for domain: ltd.hk by NS: dns7.cloudns.net. .
+[-] No NS-record found for domain: ltd.hk .
+False y.nic.no. gjerstad.no
+[.] No Zone for domain: gjerstad.no by NS: y.nic.no. .
+False x.nic.no. gjerstad.no
+[.] No Zone for domain: gjerstad.no by NS: x.nic.no. .
+False z.nic.no. gjerstad.no
+[.] No Zone for domain: gjerstad.no by NS: z.nic.no. .
+[-] No NS-record found for domain: gjerstad.no .
+False False russia.museum
+[.] No Zone for domain: russia.museum by NS: False .
+[-] No NS-record found for domain: russia.museum .
+[-] Timeout hit.
+[end] No more line in tld pipline.
