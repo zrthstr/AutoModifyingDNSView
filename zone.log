@@ -1457,3 +1457,73 @@ False ns1.gov.az. gov.az
 [-] No NS-record found for domain: gov.az .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 10:02:08 UTC 2020
+False False madrid.museum
+[.] No Zone for domain: madrid.museum by NS: False .
+[-] No NS-record found for domain: madrid.museum .
+False False الاردن
+[.] No Zone for domain: الاردن by NS: False .
+[-] No NS-record found for domain: الاردن .
+False False 淡马锡
+[.] No Zone for domain: 淡马锡 by NS: False .
+[-] No NS-record found for domain: 淡马锡 .
+False False melbourne
+[.] No Zone for domain: melbourne by NS: False .
+[-] No NS-record found for domain: melbourne .
+False False hakodate.hokkaido.jp
+[.] No Zone for domain: hakodate.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: hakodate.hokkaido.jp .
+False False 谷歌
+[.] No Zone for domain: 谷歌 by NS: False .
+[-] No NS-record found for domain: 谷歌 .
+False False toyokawa.aichi.jp
+[.] No Zone for domain: toyokawa.aichi.jp by NS: False .
+[-] No NS-record found for domain: toyokawa.aichi.jp .
+False False nakagawa.tokushima.jp
+[.] No Zone for domain: nakagawa.tokushima.jp by NS: False .
+[-] No NS-record found for domain: nakagawa.tokushima.jp .
+False False control.aero
+[.] No Zone for domain: control.aero by NS: False .
+[-] No NS-record found for domain: control.aero .
+False False nagasaki.nagasaki.jp
+[.] No Zone for domain: nagasaki.nagasaki.jp by NS: False .
+[-] No NS-record found for domain: nagasaki.nagasaki.jp .
+False False locker
+[.] No Zone for domain: locker by NS: False .
+[-] No NS-record found for domain: locker .
+False dns3.infra.leg.br. mt.leg.br
+[.] No Zone for domain: mt.leg.br by NS: dns3.infra.leg.br. .
+False dns1.infra.leg.br. mt.leg.br
+[.] No Zone for domain: mt.leg.br by NS: dns1.infra.leg.br. .
+False dns2.infra.leg.br. mt.leg.br
+[.] No Zone for domain: mt.leg.br by NS: dns2.infra.leg.br. .
+[-] No NS-record found for domain: mt.leg.br .
+False False higashi.fukushima.jp
+[.] No Zone for domain: higashi.fukushima.jp by NS: False .
+[-] No NS-record found for domain: higashi.fukushima.jp .
+False dns1.alwaysdata.com. alwaysdata.net
+[.] No Zone for domain: alwaysdata.net by NS: dns1.alwaysdata.com. .
+False dns2.alwaysdata.com. alwaysdata.net
+[.] No Zone for domain: alwaysdata.net by NS: dns2.alwaysdata.com. .
+[-] No NS-record found for domain: alwaysdata.net .
+False False wakasa.tottori.jp
+[.] No Zone for domain: wakasa.tottori.jp by NS: False .
+[-] No NS-record found for domain: wakasa.tottori.jp .
+False ps.cctld.authdns.ripe.net. com.ps
+[.] No Zone for domain: com.ps by NS: ps.cctld.authdns.ripe.net. .
+False ns1.pnina.ps. com.ps
+[.] No Zone for domain: com.ps by NS: ns1.pnina.ps. .
+False ns2.pnina.ps. com.ps
+[.] No Zone for domain: com.ps by NS: ns2.pnina.ps. .
+False ote.pnina.ps. com.ps
+[.] No Zone for domain: com.ps by NS: ote.pnina.ps. .
+False rip.psg.com. com.ps
+[.] No Zone for domain: com.ps by NS: rip.psg.com. .
+False ps-ns.anycast.pch.net. com.ps
+[.] No Zone for domain: com.ps by NS: ps-ns.anycast.pch.net. .
+[-] No NS-record found for domain: com.ps .
+False False philately.museum
+[.] No Zone for domain: philately.museum by NS: False .
+[-] No NS-record found for domain: philately.museum .
+[-] Timeout hit.
+[end] No more line in tld pipline.
