@@ -2086,3 +2086,231 @@ False i-dns.pl. pruszkow.pl
 [-] No NS-record found for domain: pruszkow.pl .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 14:02:13 UTC 2020
+False False 宮崎.jp
+[.] No Zone for domain: 宮崎.jp by NS: False .
+[-] No NS-record found for domain: 宮崎.jp .
+False False western.museum
+[.] No Zone for domain: western.museum by NS: False .
+[-] No NS-record found for domain: western.museum .
+False ns1.dyndns.org. isteingeek.de
+[.] No Zone for domain: isteingeek.de by NS: ns1.dyndns.org. .
+False ns2.dyndns.org. isteingeek.de
+[.] No Zone for domain: isteingeek.de by NS: ns2.dyndns.org. .
+False ns3.dyndns.org. isteingeek.de
+[.] No Zone for domain: isteingeek.de by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. isteingeek.de
+[.] No Zone for domain: isteingeek.de by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. isteingeek.de
+[.] No Zone for domain: isteingeek.de by NS: ns5.dyndns.org. .
+[-] No NS-record found for domain: isteingeek.de .
+False z.nic.no. gs.ah.no
+[.] No Zone for domain: gs.ah.no by NS: z.nic.no. .
+False x.nic.no. gs.ah.no
+[.] No Zone for domain: gs.ah.no by NS: x.nic.no. .
+False y.nic.no. gs.ah.no
+[.] No Zone for domain: gs.ah.no by NS: y.nic.no. .
+[-] No NS-record found for domain: gs.ah.no .
+False False yokohama
+[.] No Zone for domain: yokohama by NS: False .
+[-] No NS-record found for domain: yokohama .
+False False ms.it
+[.] No Zone for domain: ms.it by NS: False .
+[-] No NS-record found for domain: ms.it .
+False cctld.gamma.aridns.net.au. edu.om
+[.] No Zone for domain: edu.om by NS: cctld.gamma.aridns.net.au. .
+False cctld.alpha.aridns.net.au. edu.om
+[.] No Zone for domain: edu.om by NS: cctld.alpha.aridns.net.au. .
+False cctld.beta.aridns.net.au. edu.om
+[.] No Zone for domain: edu.om by NS: cctld.beta.aridns.net.au. .
+False ns2.registry.om. edu.om
+[.] No Zone for domain: edu.om by NS: ns2.registry.om. .
+False ns1.registry.om. edu.om
+[.] No Zone for domain: edu.om by NS: ns1.registry.om. .
+False cctld.delta.aridns.net.au. edu.om
+[.] No Zone for domain: edu.om by NS: cctld.delta.aridns.net.au. .
+[-] No NS-record found for domain: edu.om .
+False False observer
+[.] No Zone for domain: observer by NS: False .
+[-] No NS-record found for domain: observer .
+False ns8-geo.nic.ru. karelia.su
+[.] No Zone for domain: karelia.su by NS: ns8-geo.nic.ru. .
+False ns3-geo.nic.ru. karelia.su
+[.] No Zone for domain: karelia.su by NS: ns3-geo.nic.ru. .
+False ns4-geo.nic.ru. karelia.su
+[.] No Zone for domain: karelia.su by NS: ns4-geo.nic.ru. .
+[-] No NS-record found for domain: karelia.su .
+False ns1.aedns.ae. net.ae
+[.] No Zone for domain: net.ae by NS: ns1.aedns.ae. .
+False ns4.apnic.net. net.ae
+[.] No Zone for domain: net.ae by NS: ns4.apnic.net. .
+False ns2.aedns.ae. net.ae
+[.] No Zone for domain: net.ae by NS: ns2.aedns.ae. .
+False nsext-pch.aedns.ae. net.ae
+[.] No Zone for domain: net.ae by NS: nsext-pch.aedns.ae. .
+[-] No NS-record found for domain: net.ae .
+False ns.tpnet.pl. sopot.pl
+[.] No Zone for domain: sopot.pl by NS: ns.tpnet.pl. .
+False ns1.task.gda.pl. sopot.pl
+[.] No Zone for domain: sopot.pl by NS: ns1.task.gda.pl. .
+False ns2.task.gda.pl. sopot.pl
+[.] No Zone for domain: sopot.pl by NS: ns2.task.gda.pl. .
+False bilbo.nask.org.pl. sopot.pl
+[.] No Zone for domain: sopot.pl by NS: bilbo.nask.org.pl. .
+[-] No NS-record found for domain: sopot.pl .
+False False tw
+[.] No Zone for domain: tw by NS: False .
+[-] No NS-record found for domain: tw .
+False False oyamazaki.kyoto.jp
+[.] No Zone for domain: oyamazaki.kyoto.jp by NS: False .
+[-] No NS-record found for domain: oyamazaki.kyoto.jp .
+False False basketball
+[.] No Zone for domain: basketball by NS: False .
+[-] No NS-record found for domain: basketball .
+False False barcelona
+[.] No Zone for domain: barcelona by NS: False .
+[-] No NS-record found for domain: barcelona .
+False False mihama.aichi.jp
+[.] No Zone for domain: mihama.aichi.jp by NS: False .
+[-] No NS-record found for domain: mihama.aichi.jp .
+False sd.cctld.authdns.ripe.net. info.sd
+[.] No Zone for domain: info.sd by NS: sd.cctld.authdns.ripe.net. .
+False ns.cocca.fr. info.sd
+[.] No Zone for domain: info.sd by NS: ns.cocca.fr. .
+False ans2.canar.sd. info.sd
+[.] No Zone for domain: info.sd by NS: ans2.canar.sd. .
+False ans1.canar.sd. info.sd
+[.] No Zone for domain: info.sd by NS: ans1.canar.sd. .
+False pch.sis.sd. info.sd
+[.] No Zone for domain: info.sd by NS: pch.sis.sd. .
+False ans1.sis.sd. info.sd
+[.] No Zone for domain: info.sd by NS: ans1.sis.sd. .
+False ns-sd.afrinic.net. info.sd
+[.] No Zone for domain: info.sd by NS: ns-sd.afrinic.net. .
+[-] No NS-record found for domain: info.sd .
+False x2.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x2.nymnom.net. .
+False x3.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x3.nymnom.net. .
+False x7.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x7.nymnom.net. .
+False x4.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x4.nymnom.net. .
+False x6.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x6.nymnom.net. .
+False x1.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x1.nymnom.net. .
+False x5.nymnom.net. nym.lc
+[.] No Zone for domain: nym.lc by NS: x5.nymnom.net. .
+[-] No NS-record found for domain: nym.lc .
+False False cc.nh.us
+[.] No Zone for domain: cc.nh.us by NS: False .
+[-] No NS-record found for domain: cc.nh.us .
+False ns-cloud-d1.googledomains.com. webhare.dev
+[.] No Zone for domain: webhare.dev by NS: ns-cloud-d1.googledomains.com. .
+False ns-cloud-d2.googledomains.com. webhare.dev
+[.] No Zone for domain: webhare.dev by NS: ns-cloud-d2.googledomains.com. .
+False ns-cloud-d3.googledomains.com. webhare.dev
+[.] No Zone for domain: webhare.dev by NS: ns-cloud-d3.googledomains.com. .
+False ns-cloud-d4.googledomains.com. webhare.dev
+[.] No Zone for domain: webhare.dev by NS: ns-cloud-d4.googledomains.com. .
+[-] No NS-record found for domain: webhare.dev .
+False False bg.it
+[.] No Zone for domain: bg.it by NS: False .
+[-] No NS-record found for domain: bg.it .
+False False olayan
+[.] No Zone for domain: olayan by NS: False .
+[-] No NS-record found for domain: olayan .
+False c.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: c.dns.br. .
+False d.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: d.dns.br. .
+False f.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: f.dns.br. .
+False e.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: e.dns.br. .
+False a.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: a.dns.br. .
+False b.dns.br. jus.br
+[.] No Zone for domain: jus.br by NS: b.dns.br. .
+[-] No NS-record found for domain: jus.br .
+False y.nic.no. stryn.no
+[.] No Zone for domain: stryn.no by NS: y.nic.no. .
+False z.nic.no. stryn.no
+[.] No Zone for domain: stryn.no by NS: z.nic.no. .
+False x.nic.no. stryn.no
+[.] No Zone for domain: stryn.no by NS: x.nic.no. .
+[-] No NS-record found for domain: stryn.no .
+False ns-1206.awsdns-22.org. s3-website.us-east-2.amazonaws.com
+[.] No Zone for domain: s3-website.us-east-2.amazonaws.com by NS: ns-1206.awsdns-22.org. .
+False ns-1918.awsdns-47.co.uk. s3-website.us-east-2.amazonaws.com
+[.] No Zone for domain: s3-website.us-east-2.amazonaws.com by NS: ns-1918.awsdns-47.co.uk. .
+False ns-485.awsdns-60.com. s3-website.us-east-2.amazonaws.com
+[.] No Zone for domain: s3-website.us-east-2.amazonaws.com by NS: ns-485.awsdns-60.com. .
+False ns-812.awsdns-37.net. s3-website.us-east-2.amazonaws.com
+[.] No Zone for domain: s3-website.us-east-2.amazonaws.com by NS: ns-812.awsdns-37.net. .
+[-] No NS-record found for domain: s3-website.us-east-2.amazonaws.com .
+False False university.museum
+[.] No Zone for domain: university.museum by NS: False .
+[-] No NS-record found for domain: university.museum .
+False a.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: a.dns-servers.vn. .
+False b.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: b.dns-servers.vn. .
+False c.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: c.dns-servers.vn. .
+False d.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: d.dns-servers.vn. .
+False e.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: e.dns-servers.vn. .
+False f.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: f.dns-servers.vn. .
+False g.dns-servers.vn. health.vn
+[.] No Zone for domain: health.vn by NS: g.dns-servers.vn. .
+[-] No NS-record found for domain: health.vn .
+False False net.lv
+[.] No Zone for domain: net.lv by NS: False .
+[-] No NS-record found for domain: net.lv .
+False False fuji.shizuoka.jp
+[.] No Zone for domain: fuji.shizuoka.jp by NS: False .
+[-] No NS-record found for domain: fuji.shizuoka.jp .
+False False cx
+[.] No Zone for domain: cx by NS: False .
+[-] No NS-record found for domain: cx .
+False False kikuchi.kumamoto.jp
+[.] No Zone for domain: kikuchi.kumamoto.jp by NS: False .
+[-] No NS-record found for domain: kikuchi.kumamoto.jp .
+False otc-dns2.lsu.edu. cc.la.us
+[.] No Zone for domain: cc.la.us by NS: otc-dns2.lsu.edu. .
+False otc-dns1.lsu.edu. cc.la.us
+[.] No Zone for domain: cc.la.us by NS: otc-dns1.lsu.edu. .
+False bigdog.lsu.edu. cc.la.us
+[.] No Zone for domain: cc.la.us by NS: bigdog.lsu.edu. .
+[-] No NS-record found for domain: cc.la.us .
+False False suisse.museum
+[.] No Zone for domain: suisse.museum by NS: False .
+[-] No NS-record found for domain: suisse.museum .
+False False laz.it
+[.] No Zone for domain: laz.it by NS: False .
+[-] No NS-record found for domain: laz.it .
+False z.nic.no. askim.no
+[.] No Zone for domain: askim.no by NS: z.nic.no. .
+False x.nic.no. askim.no
+[.] No Zone for domain: askim.no by NS: x.nic.no. .
+False y.nic.no. askim.no
+[.] No Zone for domain: askim.no by NS: y.nic.no. .
+[-] No NS-record found for domain: askim.no .
+False False tv.it
+[.] No Zone for domain: tv.it by NS: False .
+[-] No NS-record found for domain: tv.it .
+False False heritage.museum
+[.] No Zone for domain: heritage.museum by NS: False .
+[-] No NS-record found for domain: heritage.museum .
+False False ragusa.it
+[.] No Zone for domain: ragusa.it by NS: False .
+[-] No NS-record found for domain: ragusa.it .
+False False sap
+[.] No Zone for domain: sap by NS: False .
+[-] No NS-record found for domain: sap .
+[-] Timeout hit.
+[end] No more line in tld pipline.
