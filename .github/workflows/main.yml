@@ -2,21 +2,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: '*/10 * * * *'
-
-jobs:
-#  docker_job:
-#    runs-on: ubuntu-latest
-#    name: A job to say hello
-#    steps:
-#    - name: Hello world action step
-#      id: hello
-#      uses: actions/hello-world-docker-action@v1
-#      with:
-#        who-to-greet: 'P1P1P1P1P1Mona the Octocat'
-#    # Use the output from the `hello` step
-#    - name: Get the output time
-#      run: echo "The time was ${{ steps.hello.outputs.time }}"
+    - cron: '0 * * * *'
 
   makefile_job:
     runs-on: ubuntu-latest
