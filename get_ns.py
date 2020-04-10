@@ -2,7 +2,6 @@
 
 import dns.resolver
 import dns.query
-import dns.zone
 import random
 import time
 
@@ -11,11 +10,12 @@ tld_ns_file = "effective_tld_names.dat.sane.ns"
 ns_state_file = "get_ns.state"
 
 def next_domain(in_file,start_at=0):
-        with open(tld_file, 'r') as f:
+        with open(in_file, 'r') as f:
             lines = f.read().splitlines()
             lines = lines[start_at:]
             for line in lines:
                 yield line
+
 
 def get_ns(domain):
     all_ns = set()
@@ -26,16 +26,6 @@ def get_ns(domain):
     return [str(ns.target) for ns in responses]
 
 
-def get_zone(nameserver,domain,lifetime=5):
-    try:
-        axfr = dns.query.xfr(nameserver, domain, lifetime=5)
-    except:
-        return []
-    try:
-        return list(dns.zone.from_xfr(axfr))
-    except:
-        return []
-
 
 def get_state(file_name):
     try:
@@ -45,8 +35,8 @@ def get_state(file_name):
         return 0
 
 # set FLUSH to 1-N to set on every Nth iterations files and debug msg are flushed
+FLUSH = 100
 
-FLUSH = True
 ns_state = get_state(ns_state_file)
 print(f"[debug:ns_state] Found state: {ns_state}")
 lines = next_domain(tld_file, ns_state)
@@ -64,7 +54,7 @@ with open(ns_state_file, 'w') as ns_state_fd:
 
             if not ns_state % FLUSH:
                 print(f"[status] doing: {ns_state}")
-                fd.flush()
+                d.flush()
                 ns_state_fd.flush()
 
         print(f"[done] {ns_state+1} domains queried")

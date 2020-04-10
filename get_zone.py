@@ -4,14 +4,13 @@ import dns.resolver
 import dns.query
 import dns.zone
 import random
-import time
 
-ns_file = "effective_tld_names.dat.sane.ns"
-#ns_state_file = "get_ns.state"
+tld_ns_file = "effective_tld_names.dat.sane.ns"
 zone_state_file = "get_zone.state"
+zone_out = "zones.out"
 
 def next_domain(in_file,start_at=0):
-        with open(tld_file, 'r') as f:
+        with open(in_file, 'r') as f:
             lines = f.read().splitlines()
             lines = lines[start_at:]
             for line in lines:
@@ -23,7 +22,7 @@ def get_zone(nameserver,domain,lifetime=5):
     except:
         return []
     try:
-        return list(dns.zone.from_xfr(axfr))
+        return [ str(entry)+"."+domain for entry in list(dns.zone.from_xfr(axfr))]
     except:
         return []
 
@@ -36,26 +35,29 @@ def get_state(file_name):
         return 0
 
 # set FLUSH to 1-N to set on every Nth iterations files and debug msg are flushed
-
-FLUSH = True
+FLUSH = 10
 zone_state = get_state(zone_state_file)
-print(f"[debug:ns_state] Found state: {ns_state}")
-lines = next_domain(tld_file, ns_state)
+print(f"[start] Found state: {zone_state}")
+lines = next_domain(tld_ns_file, zone_state)
 
-with open(ns_state_file, 'w') as ns_state_fd:
-    with open(tld_ns_file, 'a') as fd:
-        for ns_state, domain in enumerate(lines):
-            ns_list = get_ns(domain)
-            ns_list_comma = ",".join(ns_list)
-            ns_entry = f"{domain},{ns_list_comma}\n"
+with open(zone_state_file, 'w') as ns_state_fd:
+    with open(zone_out, 'a') as fd:
+        for count, line in enumerate(lines):
+            domain, *nsl = line.split(',')
+            zone_sum = set()
+            for ns in nsl:
+                zone = get_zone(ns, domain)
+                if zone != []:
+                    zone_sum.update(zone)
+            if zone_sum != set():
+                entry = "{},{}\n".format(domain, ",".join(zone_sum))
+                fd.write(entry)
 
-            fd.write(ns_entry)
             ns_state_fd.seek(0)
-            ns_state_fd.write(str(ns_state))
+            ns_state_fd.write(str(count))
 
-            if not ns_state % FLUSH:
-                print(f"[status] doing: {ns_state}")
+            if not count % FLUSH:
                 fd.flush()
                 ns_state_fd.flush()
-
-        print(f"[done] {ns_state+1} domains queried")
+                print(f"[info] {count+1} domains queried")
+        print(f"[done] {zone_state+1} domains queried")

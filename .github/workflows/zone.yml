@@ -1,6 +1,7 @@
 on:
+  push:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '55 0 * * 5'
 
 #push:
 #pull_request:
