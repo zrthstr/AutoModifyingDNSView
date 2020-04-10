@@ -873,3 +873,204 @@ False False blogspot.mr
 [-] No NS-record found for domain: blogspot.mr .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 06:02:24 UTC 2020
+False False rentals
+[.] No Zone for domain: rentals by NS: False .
+[-] No NS-record found for domain: rentals .
+False False goo
+[.] No Zone for domain: goo by NS: False .
+[-] No NS-record found for domain: goo .
+False False сайт
+[.] No Zone for domain: сайт by NS: False .
+[-] No NS-record found for domain: сайт .
+False False shimabara.nagasaki.jp
+[.] No Zone for domain: shimabara.nagasaki.jp by NS: False .
+[-] No NS-record found for domain: shimabara.nagasaki.jp .
+False ns.cocca.fr. biz.ki
+[.] No Zone for domain: biz.ki by NS: ns.cocca.fr. .
+False pch.nic.ki. biz.ki
+[.] No Zone for domain: biz.ki by NS: pch.nic.ki. .
+[-] No NS-record found for domain: biz.ki .
+False False rs
+[.] No Zone for domain: rs by NS: False .
+[-] No NS-record found for domain: rs .
+False dns2.edu.cn. edu.cn
+[.] No Zone for domain: edu.cn by NS: dns2.edu.cn. .
+False ns2.cuhk.hk. edu.cn
+[.] No Zone for domain: edu.cn by NS: ns2.cuhk.hk. .
+False deneb.dfn.de. edu.cn
+[.] No Zone for domain: edu.cn by NS: deneb.dfn.de. .
+False ns2.cernet.net. edu.cn
+[.] No Zone for domain: edu.cn by NS: ns2.cernet.net. .
+False dns.edu.cn. edu.cn
+[.] No Zone for domain: edu.cn by NS: dns.edu.cn. .
+[-] No NS-record found for domain: edu.cn .
+False False manchester.museum
+[.] No Zone for domain: manchester.museum by NS: False .
+[-] No NS-record found for domain: manchester.museum .
+False False sakura.tochigi.jp
+[.] No Zone for domain: sakura.tochigi.jp by NS: False .
+[-] No NS-record found for domain: sakura.tochigi.jp .
+False False samukawa.kanagawa.jp
+[.] No Zone for domain: samukawa.kanagawa.jp by NS: False .
+[-] No NS-record found for domain: samukawa.kanagawa.jp .
+False webns1.telecom.tm. com.tm
+[.] No Zone for domain: com.tm by NS: webns1.telecom.tm. .
+False webns2.telecom.tm. com.tm
+[.] No Zone for domain: com.tm by NS: webns2.telecom.tm. .
+[-] No NS-record found for domain: com.tm .
+False z.nic.no. notteroy.no
+[.] No Zone for domain: notteroy.no by NS: z.nic.no. .
+False y.nic.no. notteroy.no
+[.] No Zone for domain: notteroy.no by NS: y.nic.no. .
+False x.nic.no. notteroy.no
+[.] No Zone for domain: notteroy.no by NS: x.nic.no. .
+[-] No NS-record found for domain: notteroy.no .
+False False extraspace
+[.] No Zone for domain: extraspace by NS: False .
+[-] No NS-record found for domain: extraspace .
+False False dance
+[.] No Zone for domain: dance by NS: False .
+[-] No NS-record found for domain: dance .
+False z.nic.no. bahcavuotna.no
+[.] No Zone for domain: bahcavuotna.no by NS: z.nic.no. .
+False y.nic.no. bahcavuotna.no
+[.] No Zone for domain: bahcavuotna.no by NS: y.nic.no. .
+False x.nic.no. bahcavuotna.no
+[.] No Zone for domain: bahcavuotna.no by NS: x.nic.no. .
+[-] No NS-record found for domain: bahcavuotna.no .
+False False 2.bg
+[.] No Zone for domain: 2.bg by NS: False .
+[-] No NS-record found for domain: 2.bg .
+False y.nic.no. oppegard.no
+[.] No Zone for domain: oppegard.no by NS: y.nic.no. .
+False x.nic.no. oppegard.no
+[.] No Zone for domain: oppegard.no by NS: x.nic.no. .
+False z.nic.no. oppegard.no
+[.] No Zone for domain: oppegard.no by NS: z.nic.no. .
+[-] No NS-record found for domain: oppegard.no .
+False False okazaki.aichi.jp
+[.] No Zone for domain: okazaki.aichi.jp by NS: False .
+[-] No NS-record found for domain: okazaki.aichi.jp .
+False False au
+[.] No Zone for domain: au by NS: False .
+[-] No NS-record found for domain: au .
+False cynic6.dns.cy. pro.cy
+[.] No Zone for domain: pro.cy by NS: cynic6.dns.cy. .
+False cynic4.dns.cy. pro.cy
+[.] No Zone for domain: pro.cy by NS: cynic4.dns.cy. .
+False estia.ics.forth.gr. pro.cy
+[.] No Zone for domain: pro.cy by NS: estia.ics.forth.gr. .
+False ns02.savvis.net. pro.cy
+[.] No Zone for domain: pro.cy by NS: ns02.savvis.net. .
+False ns4.apnic.net. pro.cy
+[.] No Zone for domain: pro.cy by NS: ns4.apnic.net. .
+False cy-ns.anycast.pch.net. pro.cy
+[.] No Zone for domain: pro.cy by NS: cy-ns.anycast.pch.net. .
+False cynic.dns.cy. pro.cy
+[.] No Zone for domain: pro.cy by NS: cynic.dns.cy. .
+[-] No NS-record found for domain: pro.cy .
+False dns.onenet.net. cc.ok.us
+[.] No Zone for domain: cc.ok.us by NS: dns.onenet.net. .
+False terra.osrhe.edu. cc.ok.us
+[.] No Zone for domain: cc.ok.us by NS: terra.osrhe.edu. .
+[-] No NS-record found for domain: cc.ok.us .
+False False kamigori.hyogo.jp
+[.] No Zone for domain: kamigori.hyogo.jp by NS: False .
+[-] No NS-record found for domain: kamigori.hyogo.jp .
+False False бел
+[.] No Zone for domain: бел by NS: False .
+[-] No NS-record found for domain: бел .
+False x.nic.no. deatnu.no
+[.] No Zone for domain: deatnu.no by NS: x.nic.no. .
+False z.nic.no. deatnu.no
+[.] No Zone for domain: deatnu.no by NS: z.nic.no. .
+False y.nic.no. deatnu.no
+[.] No Zone for domain: deatnu.no by NS: y.nic.no. .
+[-] No NS-record found for domain: deatnu.no .
+False ns3.gouv.sn. gouv.sn
+[.] No Zone for domain: gouv.sn by NS: ns3.gouv.sn. .
+False ns.ucad.sn. gouv.sn
+[.] No Zone for domain: gouv.sn by NS: ns.ucad.sn. .
+False ns.gouv.sn. gouv.sn
+[.] No Zone for domain: gouv.sn by NS: ns.gouv.sn. .
+False ns2.gouv.sn. gouv.sn
+[.] No Zone for domain: gouv.sn by NS: ns2.gouv.sn. .
+[-] No NS-record found for domain: gouv.sn .
+False ns1.dyndns.org. barrel-of-knowledge.info
+[.] No Zone for domain: barrel-of-knowledge.info by NS: ns1.dyndns.org. .
+False ns3.dyndns.org. barrel-of-knowledge.info
+[.] No Zone for domain: barrel-of-knowledge.info by NS: ns3.dyndns.org. .
+False ns4.dyndns.org. barrel-of-knowledge.info
+[.] No Zone for domain: barrel-of-knowledge.info by NS: ns4.dyndns.org. .
+False ns5.dyndns.org. barrel-of-knowledge.info
+[.] No Zone for domain: barrel-of-knowledge.info by NS: ns5.dyndns.org. .
+[-] No NS-record found for domain: barrel-of-knowledge.info .
+False False creation.museum
+[.] No Zone for domain: creation.museum by NS: False .
+[-] No NS-record found for domain: creation.museum .
+False False nowtv
+[.] No Zone for domain: nowtv by NS: False .
+[-] No NS-record found for domain: nowtv .
+False a-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: a-dns.pl. .
+False b-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: b-dns.pl. .
+False c-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: c-dns.pl. .
+False e-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: e-dns.pl. .
+False f-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: f-dns.pl. .
+False g-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: g-dns.pl. .
+False i-dns.pl. pomorskie.pl
+[.] No Zone for domain: pomorskie.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: pomorskie.pl .
+False dns.amu.edu.pl. poznan.pl
+[.] No Zone for domain: poznan.pl by NS: dns.amu.edu.pl. .
+False dns3.amu.edu.pl. poznan.pl
+[.] No Zone for domain: poznan.pl by NS: dns3.amu.edu.pl. .
+False bilbo.nask.org.pl. poznan.pl
+[.] No Zone for domain: poznan.pl by NS: bilbo.nask.org.pl. .
+False kirdan.nask.net.pl. poznan.pl
+[.] No Zone for domain: poznan.pl by NS: kirdan.nask.net.pl. .
+[-] No NS-record found for domain: poznan.pl .
+False ns1.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns1.registry.in. .
+False ns6.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns6.registry.in. .
+False ns2.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns2.registry.in. .
+False ns4.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns4.registry.in. .
+False ns5.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns5.registry.in. .
+False ns3.registry.in. org.in
+[.] No Zone for domain: org.in by NS: ns3.registry.in. .
+[-] No NS-record found for domain: org.in .
+False False guitars
+[.] No Zone for domain: guitars by NS: False .
+[-] No NS-record found for domain: guitars .
+False False okinawa
+[.] No Zone for domain: okinawa by NS: False .
+[-] No NS-record found for domain: okinawa .
+False cns.cernet.net. tw.cn
+[.] No Zone for domain: tw.cn by NS: cns.cernet.net. .
+False e.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: e.dns.cn. .
+False b.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: b.dns.cn. .
+False f.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: f.dns.cn. .
+False d.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: d.dns.cn. .
+False a.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: a.dns.cn. .
+False c.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: c.dns.cn. .
+False g.dns.cn. tw.cn
+[.] No Zone for domain: tw.cn by NS: g.dns.cn. .
+[-] No NS-record found for domain: tw.cn .
+[-] Timeout hit.
+[end] No more line in tld pipline.
