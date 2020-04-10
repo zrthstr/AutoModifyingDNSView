@@ -544,3 +544,326 @@ False x.nic.no. sørreisa.no
 [-] No NS-record found for domain: sørreisa.no .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 04:02:06 UTC 2020
+False False vibo-valentia.it
+[.] No Zone for domain: vibo-valentia.it by NS: False .
+[-] No NS-record found for domain: vibo-valentia.it .
+False y.nic.no. ullensaker.no
+[.] No Zone for domain: ullensaker.no by NS: y.nic.no. .
+False z.nic.no. ullensaker.no
+[.] No Zone for domain: ullensaker.no by NS: z.nic.no. .
+False x.nic.no. ullensaker.no
+[.] No Zone for domain: ullensaker.no by NS: x.nic.no. .
+[-] No NS-record found for domain: ullensaker.no .
+False False itakura.gunma.jp
+[.] No Zone for domain: itakura.gunma.jp by NS: False .
+[-] No NS-record found for domain: itakura.gunma.jp .
+False False mediocampidano.it
+[.] No Zone for domain: mediocampidano.it by NS: False .
+[-] No NS-record found for domain: mediocampidano.it .
+False False itami.hyogo.jp
+[.] No Zone for domain: itami.hyogo.jp by NS: False .
+[-] No NS-record found for domain: itami.hyogo.jp .
+False a.lactld.org. info.ec
+[.] No Zone for domain: info.ec by NS: a.lactld.org. .
+False n2.nic.ec. info.ec
+[.] No Zone for domain: info.ec by NS: n2.nic.ec. .
+False n3.dns.ec. info.ec
+[.] No Zone for domain: info.ec by NS: n3.dns.ec. .
+[-] No NS-record found for domain: info.ec .
+False ns2.neoip.com. net.sl
+[.] No Zone for domain: net.sl by NS: ns2.neoip.com. .
+False ns1.neoip.com. net.sl
+[.] No Zone for domain: net.sl by NS: ns1.neoip.com. .
+[-] No NS-record found for domain: net.sl .
+False uclo-ns-01.de. virtual-user.de
+[.] No Zone for domain: virtual-user.de by NS: uclo-ns-01.de. .
+False uclo-ns-02.de. virtual-user.de
+[.] No Zone for domain: virtual-user.de by NS: uclo-ns-02.de. .
+[-] No NS-record found for domain: virtual-user.de .
+False ns2.liquidtelecom.net. ac.zw
+[.] No Zone for domain: ac.zw by NS: ns2.liquidtelecom.net. .
+False uofzns02.uz.ac.zw. ac.zw
+[.] No Zone for domain: ac.zw by NS: uofzns02.uz.ac.zw. .
+False uofzns01.uz.ac.zw. ac.zw
+[.] No Zone for domain: ac.zw by NS: uofzns01.uz.ac.zw. .
+False ns1.liquidtelecom.net. ac.zw
+[.] No Zone for domain: ac.zw by NS: ns1.liquidtelecom.net. .
+[-] No NS-record found for domain: ac.zw .
+False ns4.cloudns.net. cloudns.us
+[.] No Zone for domain: cloudns.us by NS: ns4.cloudns.net. .
+False ns1.cloudns.net. cloudns.us
+[.] No Zone for domain: cloudns.us by NS: ns1.cloudns.net. .
+False ns3.cloudns.net. cloudns.us
+[.] No Zone for domain: cloudns.us by NS: ns3.cloudns.net. .
+False ns2.cloudns.net. cloudns.us
+[.] No Zone for domain: cloudns.us by NS: ns2.cloudns.net. .
+[-] No NS-record found for domain: cloudns.us .
+False False jot
+[.] No Zone for domain: jot by NS: False .
+[-] No NS-record found for domain: jot .
+False False exposed
+[.] No Zone for domain: exposed by NS: False .
+[-] No NS-record found for domain: exposed .
+False False org.bs
+[.] No Zone for domain: org.bs by NS: False .
+[-] No NS-record found for domain: org.bs .
+False ns.dn.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns.dn.ua. .
+False ns.te.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns.te.ua. .
+False nix.ns.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: nix.ns.ua. .
+False ns2.km.ua. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns2.km.ua. .
+False ns2.uar.net. ternopil.ua
+[.] No Zone for domain: ternopil.ua by NS: ns2.uar.net. .
+[-] No NS-record found for domain: ternopil.ua .
+False a-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: a-dns.pl. .
+False b-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: b-dns.pl. .
+False c-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: c-dns.pl. .
+False e-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: e-dns.pl. .
+False f-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: f-dns.pl. .
+False g-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: g-dns.pl. .
+False i-dns.pl. bedzin.pl
+[.] No Zone for domain: bedzin.pl by NS: i-dns.pl. .
+[-] No NS-record found for domain: bedzin.pl .
+False False aq
+[.] No Zone for domain: aq by NS: False .
+[-] No NS-record found for domain: aq .
+False jill.ns.cloudflare.com. 2ix.ch
+[.] No Zone for domain: 2ix.ch by NS: jill.ns.cloudflare.com. .
+False jake.ns.cloudflare.com. 2ix.ch
+[.] No Zone for domain: 2ix.ch by NS: jake.ns.cloudflare.com. .
+[-] No NS-record found for domain: 2ix.ch .
+False ns1.gov.lk. gov.lk
+[.] No Zone for domain: gov.lk by NS: ns1.gov.lk. .
+False d.nic.lk. gov.lk
+[.] No Zone for domain: gov.lk by NS: d.nic.lk. .
+False c.nic.lk. gov.lk
+[.] No Zone for domain: gov.lk by NS: c.nic.lk. .
+False ns2.gov.lk. gov.lk
+[.] No Zone for domain: gov.lk by NS: ns2.gov.lk. .
+False m.nic.lk. gov.lk
+[.] No Zone for domain: gov.lk by NS: m.nic.lk. .
+[-] No NS-record found for domain: gov.lk .
+False False aig
+[.] No Zone for domain: aig by NS: False .
+[-] No NS-record found for domain: aig .
+False False tax
+[.] No Zone for domain: tax by NS: False .
+[-] No NS-record found for domain: tax .
+False ns-1384.awsdns-45.org. us-west-1.elasticbeanstalk.com
+[.] No Zone for domain: us-west-1.elasticbeanstalk.com by NS: ns-1384.awsdns-45.org. .
+False ns-1740.awsdns-25.co.uk. us-west-1.elasticbeanstalk.com
+[.] No Zone for domain: us-west-1.elasticbeanstalk.com by NS: ns-1740.awsdns-25.co.uk. .
+False ns-44.awsdns-05.com. us-west-1.elasticbeanstalk.com
+[.] No Zone for domain: us-west-1.elasticbeanstalk.com by NS: ns-44.awsdns-05.com. .
+False ns-995.awsdns-60.net. us-west-1.elasticbeanstalk.com
+[.] No Zone for domain: us-west-1.elasticbeanstalk.com by NS: ns-995.awsdns-60.net. .
+[-] No NS-record found for domain: us-west-1.elasticbeanstalk.com .
+False False nu.it
+[.] No Zone for domain: nu.it by NS: False .
+[-] No NS-record found for domain: nu.it .
+False ns1.am.gov.br. am.gov.br
+[.] No Zone for domain: am.gov.br by NS: ns1.am.gov.br. .
+False ns2.am.gov.br. am.gov.br
+[.] No Zone for domain: am.gov.br by NS: ns2.am.gov.br. .
+[-] No NS-record found for domain: am.gov.br .
+False False te.it
+[.] No Zone for domain: te.it by NS: False .
+[-] No NS-record found for domain: te.it .
+False False 新潟.jp
+[.] No Zone for domain: 新潟.jp by NS: False .
+[-] No NS-record found for domain: 新潟.jp .
+False False amex
+[.] No Zone for domain: amex by NS: False .
+[-] No NS-record found for domain: amex .
+False lns31.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns31.nic.tr. .
+False lns34.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns34.nic.tr. .
+False lns35.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns35.nic.tr. .
+False lns21.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns21.nic.tr. .
+False lns22.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns22.nic.tr. .
+False lns41.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns41.nic.tr. .
+False lns42.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns42.nic.tr. .
+False lns5.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns5.nic.tr. .
+False lns61.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns61.nic.tr. .
+False lns91.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns91.nic.tr. .
+False lns92.nic.tr. info.tr
+[.] No Zone for domain: info.tr by NS: lns92.nic.tr. .
+[-] No NS-record found for domain: info.tr .
+False False mochizuki.nagano.jp
+[.] No Zone for domain: mochizuki.nagano.jp by NS: False .
+[-] No NS-record found for domain: mochizuki.nagano.jp .
+False False chiyoda.gunma.jp
+[.] No Zone for domain: chiyoda.gunma.jp by NS: False .
+[-] No NS-record found for domain: chiyoda.gunma.jp .
+False False kuju.oita.jp
+[.] No Zone for domain: kuju.oita.jp by NS: False .
+[-] No NS-record found for domain: kuju.oita.jp .
+False False culture.museum
+[.] No Zone for domain: culture.museum by NS: False .
+[-] No NS-record found for domain: culture.museum .
+False False pharmacy.museum
+[.] No Zone for domain: pharmacy.museum by NS: False .
+[-] No NS-record found for domain: pharmacy.museum .
+False False sanagochi.tokushima.jp
+[.] No Zone for domain: sanagochi.tokushima.jp by NS: False .
+[-] No NS-record found for domain: sanagochi.tokushima.jp .
+False False net.lk
+[.] No Zone for domain: net.lk by NS: False .
+[-] No NS-record found for domain: net.lk .
+False ns1.uadns.com. pp.ua
+[.] No Zone for domain: pp.ua by NS: ns1.uadns.com. .
+False ns2.uadns.com. pp.ua
+[.] No Zone for domain: pp.ua by NS: ns2.uadns.com. .
+False ns3.uadns.com. pp.ua
+[.] No Zone for domain: pp.ua by NS: ns3.uadns.com. .
+[-] No NS-record found for domain: pp.ua .
+False False lig.it
+[.] No Zone for domain: lig.it by NS: False .
+[-] No NS-record found for domain: lig.it .
+False ns1.barsyonline.com. barsy.info
+[.] No Zone for domain: barsy.info by NS: ns1.barsyonline.com. .
+False ns21.cloudns.net. barsy.info
+[.] No Zone for domain: barsy.info by NS: ns21.cloudns.net. .
+False ns22.cloudns.net. barsy.info
+[.] No Zone for domain: barsy.info by NS: ns22.cloudns.net. .
+False ns23.cloudns.net. barsy.info
+[.] No Zone for domain: barsy.info by NS: ns23.cloudns.net. .
+False ns24.cloudns.net. barsy.info
+[.] No Zone for domain: barsy.info by NS: ns24.cloudns.net. .
+[-] No NS-record found for domain: barsy.info .
+False False travel.tt
+[.] No Zone for domain: travel.tt by NS: False .
+[-] No NS-record found for domain: travel.tt .
+False ns.eenet.ee. org.ee
+[.] No Zone for domain: org.ee by NS: ns.eenet.ee. .
+False ns2.eenet.ee. org.ee
+[.] No Zone for domain: org.ee by NS: ns2.eenet.ee. .
+[-] No NS-record found for domain: org.ee .
+False False gr.it
+[.] No Zone for domain: gr.it by NS: False .
+[-] No NS-record found for domain: gr.it .
+False False rebun.hokkaido.jp
+[.] No Zone for domain: rebun.hokkaido.jp by NS: False .
+[-] No NS-record found for domain: rebun.hokkaido.jp .
+False nf1.no-ip.com. no-ip.org
+[.] No Zone for domain: no-ip.org by NS: nf1.no-ip.com. .
+False nf2.no-ip.com. no-ip.org
+[.] No Zone for domain: no-ip.org by NS: nf2.no-ip.com. .
+False nf3.no-ip.com. no-ip.org
+[.] No Zone for domain: no-ip.org by NS: nf3.no-ip.com. .
+False nf4.no-ip.com. no-ip.org
+[.] No Zone for domain: no-ip.org by NS: nf4.no-ip.com. .
+[-] No NS-record found for domain: no-ip.org .
+False False monzabrianza.it
+[.] No Zone for domain: monzabrianza.it by NS: False .
+[-] No NS-record found for domain: monzabrianza.it .
+False False saarland
+[.] No Zone for domain: saarland by NS: False .
+[-] No NS-record found for domain: saarland .
+False ns2.edu.tt. edu.tt
+[.] No Zone for domain: edu.tt by NS: ns2.edu.tt. .
+False ns1.edu.tt. edu.tt
+[.] No Zone for domain: edu.tt by NS: ns1.edu.tt. .
+[-] No NS-record found for domain: edu.tt .
+False dns1.tbr.edu. cc.tn.us
+[.] No Zone for domain: cc.tn.us by NS: dns1.tbr.edu. .
+False dns2.tbr.edu. cc.tn.us
+[.] No Zone for domain: cc.tn.us by NS: dns2.tbr.edu. .
+[-] No NS-record found for domain: cc.tn.us .
+False a.dns.br. art.br
+[.] No Zone for domain: art.br by NS: a.dns.br. .
+False b.dns.br. art.br
+[.] No Zone for domain: art.br by NS: b.dns.br. .
+False c.dns.br. art.br
+[.] No Zone for domain: art.br by NS: c.dns.br. .
+False d.dns.br. art.br
+[.] No Zone for domain: art.br by NS: d.dns.br. .
+False e.dns.br. art.br
+[.] No Zone for domain: art.br by NS: e.dns.br. .
+False f.dns.br. art.br
+[.] No Zone for domain: art.br by NS: f.dns.br. .
+[-] No NS-record found for domain: art.br .
+False ns1.registry.om. com.om
+[.] No Zone for domain: com.om by NS: ns1.registry.om. .
+False cctld.beta.aridns.net.au. com.om
+[.] No Zone for domain: com.om by NS: cctld.beta.aridns.net.au. .
+False cctld.alpha.aridns.net.au. com.om
+[.] No Zone for domain: com.om by NS: cctld.alpha.aridns.net.au. .
+False cctld.delta.aridns.net.au. com.om
+[.] No Zone for domain: com.om by NS: cctld.delta.aridns.net.au. .
+False cctld.gamma.aridns.net.au. com.om
+[.] No Zone for domain: com.om by NS: cctld.gamma.aridns.net.au. .
+False ns2.registry.om. com.om
+[.] No Zone for domain: com.om by NS: ns2.registry.om. .
+[-] No NS-record found for domain: com.om .
+False False wed
+[.] No Zone for domain: wed by NS: False .
+[-] No NS-record found for domain: wed .
+False False kira.aichi.jp
+[.] No Zone for domain: kira.aichi.jp by NS: False .
+[-] No NS-record found for domain: kira.aichi.jp .
+False False lib.dc.us
+[.] No Zone for domain: lib.dc.us by NS: False .
+[-] No NS-record found for domain: lib.dc.us .
+False False bauhaus
+[.] No Zone for domain: bauhaus by NS: False .
+[-] No NS-record found for domain: bauhaus .
+False False toyooka.hyogo.jp
+[.] No Zone for domain: toyooka.hyogo.jp by NS: False .
+[-] No NS-record found for domain: toyooka.hyogo.jp .
+False ns1.m-online.net. spdns.org
+[.] No Zone for domain: spdns.org by NS: ns1.m-online.net. .
+False ns2.m-online.net. spdns.org
+[.] No Zone for domain: spdns.org by NS: ns2.m-online.net. .
+False ns3.m-online.net. spdns.org
+[.] No Zone for domain: spdns.org by NS: ns3.m-online.net. .
+False ns4.m-online.net. spdns.org
+[.] No Zone for domain: spdns.org by NS: ns4.m-online.net. .
+False dyndns.securepoint.de. spdns.org
+[.] No Zone for domain: spdns.org by NS: dyndns.securepoint.de. .
+False dns-001.securepoint.de. spdns.org
+[.] No Zone for domain: spdns.org by NS: dns-001.securepoint.de. .
+[-] No NS-record found for domain: spdns.org .
+False g.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: g.dns.kr. .
+False c.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: c.dns.kr. .
+False f.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: f.dns.kr. .
+False d.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: d.dns.kr. .
+False b.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: b.dns.kr. .
+False e.dns.kr. seoul.kr
+[.] No Zone for domain: seoul.kr by NS: e.dns.kr. .
+[-] No NS-record found for domain: seoul.kr .
+False False vlaanderen.museum
+[.] No Zone for domain: vlaanderen.museum by NS: False .
+[-] No NS-record found for domain: vlaanderen.museum .
+False False oldnavy
+[.] No Zone for domain: oldnavy by NS: False .
+[-] No NS-record found for domain: oldnavy .
+False False tarumizu.kagoshima.jp
+[.] No Zone for domain: tarumizu.kagoshima.jp by NS: False .
+[-] No NS-record found for domain: tarumizu.kagoshima.jp .
+[-] Timeout hit.
+[end] No more line in tld pipline.
