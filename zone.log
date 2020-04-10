@@ -1527,3 +1527,146 @@ False False philately.museum
 [-] No NS-record found for domain: philately.museum .
 [-] Timeout hit.
 [end] No more line in tld pipline.
+Fri Apr 10 11:02:10 UTC 2020
+False e.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: e.dns.cn. .
+False b.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: b.dns.cn. .
+False d.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: d.dns.cn. .
+False a.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: a.dns.cn. .
+False c.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: c.dns.cn. .
+False g.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: g.dns.cn. .
+False f.dns.cn. gs.cn
+[.] No Zone for domain: gs.cn by NS: f.dns.cn. .
+False cns.cernet.net. gs.cn
+[.] No Zone for domain: gs.cn by NS: cns.cernet.net. .
+[-] No NS-record found for domain: gs.cn .
+False False lr
+[.] No Zone for domain: lr by NS: False .
+[-] No NS-record found for domain: lr .
+False False cruise
+[.] No Zone for domain: cruise by NS: False .
+[-] No NS-record found for domain: cruise .
+False False modelling.aero
+[.] No Zone for domain: modelling.aero by NS: False .
+[-] No NS-record found for domain: modelling.aero .
+False z.nic.no. stjørdalshalsen.no
+[.] No Zone for domain: stjørdalshalsen.no by NS: z.nic.no. .
+False y.nic.no. stjørdalshalsen.no
+[.] No Zone for domain: stjørdalshalsen.no by NS: y.nic.no. .
+False x.nic.no. stjørdalshalsen.no
+[.] No Zone for domain: stjørdalshalsen.no by NS: x.nic.no. .
+[-] No NS-record found for domain: stjørdalshalsen.no .
+False ssdns-tld.nic.cl. web.ve
+[.] No Zone for domain: web.ve by NS: ssdns-tld.nic.cl. .
+False ns3.nic.ve. web.ve
+[.] No Zone for domain: web.ve by NS: ns3.nic.ve. .
+False ns6.nic.ve. web.ve
+[.] No Zone for domain: web.ve by NS: ns6.nic.ve. .
+False ns4.nic.ve. web.ve
+[.] No Zone for domain: web.ve by NS: ns4.nic.ve. .
+False ns5.nic.ve. web.ve
+[.] No Zone for domain: web.ve by NS: ns5.nic.ve. .
+[-] No NS-record found for domain: web.ve .
+False ns2.iafrica.com. edu.za
+[.] No Zone for domain: edu.za by NS: ns2.iafrica.com. .
+False ns-za.afrinic.net. edu.za
+[.] No Zone for domain: edu.za by NS: ns-za.afrinic.net. .
+False za-ns.anycast.pch.net. edu.za
+[.] No Zone for domain: edu.za by NS: za-ns.anycast.pch.net. .
+False ns1.iafrica.com. edu.za
+[.] No Zone for domain: edu.za by NS: ns1.iafrica.com. .
+[-] No NS-record found for domain: edu.za .
+False ns2.defense.tn. defense.tn
+[.] No Zone for domain: defense.tn by NS: ns2.defense.tn. .
+False ns1.defense.tn. defense.tn
+[.] No Zone for domain: defense.tn by NS: ns1.defense.tn. .
+[-] No NS-record found for domain: defense.tn .
+False x.nic.no. bálát.no
+[.] No Zone for domain: bálát.no by NS: x.nic.no. .
+False z.nic.no. bálát.no
+[.] No Zone for domain: bálát.no by NS: z.nic.no. .
+False y.nic.no. bálát.no
+[.] No Zone for domain: bálát.no by NS: y.nic.no. .
+[-] No NS-record found for domain: bálát.no .
+False False maison
+[.] No Zone for domain: maison by NS: False .
+[-] No NS-record found for domain: maison .
+False False sandvikcoromant
+[.] No Zone for domain: sandvikcoromant by NS: False .
+[-] No NS-record found for domain: sandvikcoromant .
+False False tajimi.gifu.jp
+[.] No Zone for domain: tajimi.gifu.jp by NS: False .
+[-] No NS-record found for domain: tajimi.gifu.jp .
+False False garden
+[.] No Zone for domain: garden by NS: False .
+[-] No NS-record found for domain: garden .
+False ns-cloud-d1.googledomains.com. lpusercontent.com
+[.] No Zone for domain: lpusercontent.com by NS: ns-cloud-d1.googledomains.com. .
+False ns-cloud-d2.googledomains.com. lpusercontent.com
+[.] No Zone for domain: lpusercontent.com by NS: ns-cloud-d2.googledomains.com. .
+False ns-cloud-d3.googledomains.com. lpusercontent.com
+[.] No Zone for domain: lpusercontent.com by NS: ns-cloud-d3.googledomains.com. .
+False ns-cloud-d4.googledomains.com. lpusercontent.com
+[.] No Zone for domain: lpusercontent.com by NS: ns-cloud-d4.googledomains.com. .
+[-] No NS-record found for domain: lpusercontent.com .
+False as.asiainfo.kg. edu.kg
+[.] No Zone for domain: edu.kg by NS: as.asiainfo.kg. .
+False kg.cctld.authdns.ripe.net. edu.kg
+[.] No Zone for domain: edu.kg by NS: kg.cctld.authdns.ripe.net. .
+False ns.kg. edu.kg
+[.] No Zone for domain: edu.kg by NS: ns.kg. .
+[-] No NS-record found for domain: edu.kg .
+False y.nic.no. budejju.no
+[.] No Zone for domain: budejju.no by NS: y.nic.no. .
+False z.nic.no. budejju.no
+[.] No Zone for domain: budejju.no by NS: z.nic.no. .
+False x.nic.no. budejju.no
+[.] No Zone for domain: budejju.no by NS: x.nic.no. .
+[-] No NS-record found for domain: budejju.no .
+False False tv.na
+[.] No Zone for domain: tv.na by NS: False .
+[-] No NS-record found for domain: tv.na .
+False z.nic.no. lillehammer.no
+[.] No Zone for domain: lillehammer.no by NS: z.nic.no. .
+False y.nic.no. lillehammer.no
+[.] No Zone for domain: lillehammer.no by NS: y.nic.no. .
+False x.nic.no. lillehammer.no
+[.] No Zone for domain: lillehammer.no by NS: x.nic.no. .
+[-] No NS-record found for domain: lillehammer.no .
+False False matsudo.chiba.jp
+[.] No Zone for domain: matsudo.chiba.jp by NS: False .
+[-] No NS-record found for domain: matsudo.chiba.jp .
+False False international
+[.] No Zone for domain: international by NS: False .
+[-] No NS-record found for domain: international .
+False ns1.anycastdns.cz. caa.li
+[.] No Zone for domain: caa.li by NS: ns1.anycastdns.cz. .
+False ns2.anycastdns.cz. caa.li
+[.] No Zone for domain: caa.li by NS: ns2.anycastdns.cz. .
+[-] No NS-record found for domain: caa.li .
+False ns3.resellerinterface.de. git-repos.de
+[.] No Zone for domain: git-repos.de by NS: ns3.resellerinterface.de. .
+False ns1.resellerinterface.de. git-repos.de
+[.] No Zone for domain: git-repos.de by NS: ns1.resellerinterface.de. .
+False ns2.resellerinterface.de. git-repos.de
+[.] No Zone for domain: git-repos.de by NS: ns2.resellerinterface.de. .
+[-] No NS-record found for domain: git-repos.de .
+False ns2.google.com. blogspot.kr
+[.] No Zone for domain: blogspot.kr by NS: ns2.google.com. .
+False ns1.google.com. blogspot.kr
+[.] No Zone for domain: blogspot.kr by NS: ns1.google.com. .
+False ns3.google.com. blogspot.kr
+[.] No Zone for domain: blogspot.kr by NS: ns3.google.com. .
+False ns4.google.com. blogspot.kr
+[.] No Zone for domain: blogspot.kr by NS: ns4.google.com. .
+[-] No NS-record found for domain: blogspot.kr .
+False False gm
+[.] No Zone for domain: gm by NS: False .
+[-] No NS-record found for domain: gm .
+[-] Timeout hit.
+[end] No more line in tld pipline.
