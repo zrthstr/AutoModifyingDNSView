@@ -17,6 +17,9 @@ jobs:
     - name: make install_py_dep
       id: make_install_py_dep
       run: make install_py_dep
+    - name: make clean_zone
+      id: make_clean_zone
+      run: make clean_zone
     - name: make get_zone
       id: make_get_zone
       run: make get_zone
