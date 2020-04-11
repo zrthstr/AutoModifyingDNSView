@@ -54,7 +54,7 @@ with open(ns_state_file, 'w') as ns_state_fd:
 
             if not ns_state % FLUSH:
                 print(f"[status] doing: {ns_state}")
-                d.flush()
+                fd.flush()
                 ns_state_fd.flush()
 
         print(f"[done] {ns_state+1} domains queried")
