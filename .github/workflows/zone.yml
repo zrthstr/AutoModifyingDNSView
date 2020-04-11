@@ -22,7 +22,7 @@ jobs:
       run: make clean_zone
     - name: make get_zone
       id: make_get_zone
-      run: echo ddddd >> zones.out
+      run: make get_zone
 
     - name: Commit files
       run: |
@@ -33,5 +33,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.PAT }}
-
-        #    github_token: ${{ secrets.GITHUB_TOKEN }}
