@@ -31,6 +31,7 @@ clean_ns:
 	touch $(TLD_LIST_NS)
 
 get_ns:
+	echo get_ns
 	python3 get_ns.py
 
 clean_zone:
@@ -39,4 +40,5 @@ clean_zone:
 	touch $(ZONES_OUT)
 
 get_zone:
+	echo get_zone
 	python3 get_zone.py

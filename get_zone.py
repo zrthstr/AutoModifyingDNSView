@@ -18,7 +18,7 @@ def next_domain(in_file,start_at=0):
 
 def get_zone(nameserver,domain,lifetime=5):
     try:
-        axfr = dns.query.xfr(nameserver, domain, lifetime=5)
+        axfr = dns.query.xfr(nameserver, domain, lifetime=lifetime)
     except:
         return []
     try:
@@ -54,7 +54,7 @@ with open(zone_state_file, 'w') as ns_state_fd:
                 fd.write(entry)
 
             ns_state_fd.seek(0)
-            ns_state_fd.write(str(count))
+            ns_state_fd.write(str(count + zone_state))
 
             if not count % FLUSH:
                 fd.flush()
