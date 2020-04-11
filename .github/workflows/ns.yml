@@ -28,7 +28,7 @@ jobs:
       id: make_install_py_dep
       run: make install_py_dep
     - name: make clean_ns
-      id: make clean_ns
+      id: make_clean_ns
       run: make clean_ns
     - name: make get_ns
       id: make_get_ns
