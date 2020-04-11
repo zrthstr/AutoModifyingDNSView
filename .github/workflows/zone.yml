@@ -24,7 +24,6 @@ jobs:
       id: make_get_zone
       run: make get_zone
 
-   # skipp eval, update
     - name: Commit files
       run: |
         git config --local user.email "action@github.bot"
