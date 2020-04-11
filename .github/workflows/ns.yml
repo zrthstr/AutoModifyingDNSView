@@ -1,5 +1,6 @@
 #push:
 on:
+  push:
   schedule:
     - cron: '55 0 * * 4'
 
@@ -26,6 +27,9 @@ jobs:
     - name: make install_py_dep
       id: make_install_py_dep
       run: make install_py_dep
+    - name: make clean_ns
+      id: make clean_ns
+      run: make clean_ns
     - name: make get_ns
       id: make_get_ns
       run: make get_ns
