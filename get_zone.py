@@ -1,21 +1,5 @@
 #!/usr/bin/env python3
 
-import dns.resolver
-import dns.query
-import dns.zone
-import random
-
-tld_ns_file = "effective_tld_names.dat.sane.ns"
-zone_state_file = "get_zone.state"
-zone_out = "zones.out"
-
-def next_domain(in_file,start_at=0):
-        with open(in_file, 'r') as f:
-            lines = f.read().splitlines()
-            lines = lines[start_at:]
-            for line in lines:
-                yield line
-
 def get_zone(nameserver,domain,lifetime=5):
     try:
         axfr = dns.query.xfr(nameserver, domain, lifetime=lifetime)
@@ -26,38 +10,67 @@ def get_zone(nameserver,domain,lifetime=5):
     except:
         return []
 
+#!/usr/bin/env python3
 
-def get_state(file_name):
-    try:
-        with open(file_name, 'r') as f:
-            return int(f.read().strip())
-    except:
-        return 0
+import sys
+import dns.resolver
+import dns.query
+import dns.zone
+from multiprocessing.pool import ThreadPool as Pool
 
-# set FLUSH to 1-N to set on every Nth iterations files and debug msg are flushed
-FLUSH = 10
-zone_state = get_state(zone_state_file)
-print(f"[start] Found state: {zone_state}")
-lines = next_domain(tld_ns_file, zone_state)
+ns_in = "ns.out"
+zone_out = "zone.out"
 
-with open(zone_state_file, 'w') as ns_state_fd:
-    with open(zone_out, 'a') as fd:
-        for count, line in enumerate(lines):
-            domain, *nsl = line.split(',')
-            zone_sum = set()
-            for ns in nsl:
-                zone = get_zone(ns, domain)
-                if zone != []:
-                    zone_sum.update(zone)
-            if zone_sum != set():
-                entry = "{},{}\n".format(domain, ",".join(zone_sum))
-                fd.write(entry)
+pool_size = 5
+pool = Pool(pool_size)
+dnsResolver = dns.resolver.Resolver()
+dnsResolver.timeout = 4
+dnsResolver.lifetime = 4
+#dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
 
-            ns_state_fd.seek(0)
-            ns_state_fd.write(str(count + zone_state))
+res = []
 
-            if not count % FLUSH:
-                fd.flush()
-                ns_state_fd.flush()
-                print(f"[info] {count+1} domains queried")
-        print(f"[done] {zone_state+1} domains queried")
+def fetch_ZONE(domain, ns):
+    #res.append("dddd")
+    domain = domain.strip()
+
+    dnsAnswer = dns.query.xfr(ns, domain)
+    #print("XXXXXXXXXXXXX",dnsAnswer)
+    #try:
+
+    line = domain + ":" + "\n".join([str(rdata) for rdata in dnsAnswer ])
+
+    #print(f"ne = line = {line}")
+    res.append(line)
+
+    #res.append([str(rdata) for rdate in dnsAnswer ])
+    #except dns.resolver.NXDOMAIN:
+    #    print ("[e] No records exists for", domain)
+    #except dns.resolver.Timeout:
+    #    print ("[e] Timeout in querying",domain)
+
+maxline = 9999999999
+if len(sys.argv) > 1:
+    maxline = int(sys.argv[1])
+
+with open(ns_in,'r') as fd1:
+    for count, line in enumerate(fd1):
+        if count > maxline:
+            print(f"[i] maxline reached")
+            break
+        if not ',' in line:
+            continue
+        domain, *nslist = line.split(',')
+        if not len(nslist):
+            continue
+        for ns in nslist:
+            print(f"testing: {domain} {ns}")
+            pool.apply_async(fetch_ZONE, (domain, ns))
+
+
+pool.close()
+pool.join()
+out = "\n".join(res)
+print(out, res)
+with open(ns_in,'w') as f:
+    f.write(out)

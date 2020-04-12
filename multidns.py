@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import sys
 import dns.resolver
 from multiprocessing.pool import ThreadPool as Pool
 
@@ -15,25 +16,29 @@ dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
 
 res = []
 
-def fetch_dig_no_blast_results(no_blast_domains):
+def fetch_NS(domain):
     try:
-        no_blast_domains = no_blast_domains.strip()
-        dnsAnswer = dnsResolver.query(no_blast_domains)
-        print(f".... dnsAnswer {dnsAnswer}")
+        domain = domain.strip()
+        dnsAnswer = dnsResolver.query(domain)
         for rdata in dnsAnswer:
-            print ("[+]",no_blast_domains, "resolved to",str(rdata))
+            print ("[+]",domain, "resolved to",str(rdata))
             res.append(rdata)
-            print(res)
+            #print(res)
     except dns.resolver.NXDOMAIN:
-        print ("[e] No records exists for", no_blast_domains)
+        print ("[e] No records exists for", domain)
     except dns.resolver.Timeout:
-        print ("[e] Timeout in querying",no_blast_domains)
+        print ("[e] Timeout in querying",domain)
+
+maxline = 9999999999
+if len(sys.argv) > 1:
+    maxline = int(sys.argv[1])
 
 with open(tld_file,'r') as fd1:
-    for no_blast_domains in fd1:
-        #print("__", no_blast_domains)
-        #no_blast_domains = no_blast_domains.strip()
-        pool.apply_async(fetch_dig_no_blast_results, (no_blast_domains,))
+    for count, domain in enumerate(fd1):
+        if count > maxline:
+            print(f"[i] maxline reached")
+            break
+        pool.apply_async(fetch_NS, (domain,))
 
 pool.close()
 pool.join()
