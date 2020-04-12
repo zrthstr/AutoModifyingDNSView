@@ -2,8 +2,7 @@ TLD_LIST = effective_tld_names.dat
 TLD_LIST_CLEAN = $(TLD_LIST).clean
 TLD_LIST_SANE = $(TLD_LIST).sane
 TLD_LIST_STAT = effective_tld_names.stat
-GET_NS_STATE = get_ns.state
-GET_ZONE_STATE = get_zone.state
+NS_OUT = ns.out
 ZONES_OUT = zones.out
 
 install_py_dep:
@@ -21,14 +20,13 @@ update_tld_file:
 #	wc -l $(TLD_LIST) $(TLD_LIST_CLEAN) $(TLD_LIST_SANE) >> $(TLD_LIST_STAT)
 
 clean_ns:
-	rm $(TLD_LIST_NS)
-	touch $(TLD_LIST_NS)
+	rm $(NS_OUT)
+	touch $(NS_OUT)
 
 get_ns: clean_ns
 	python3 get_ns.py
 
 clean_zone:
-	echo 0 > $(GET_ZONE_STATE)
 	rm $(ZONES_OUT)
 	touch $(ZONES_OUT)
 
