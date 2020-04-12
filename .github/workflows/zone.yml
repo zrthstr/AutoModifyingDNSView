@@ -20,18 +20,9 @@ jobs:
     - name: make clean_zone
       id: make_clean_zone
       run: make clean_zone
-    - name: Push changes1
-      run: echo $github_token | wc
-      env:
-        github_token: ${{ secrets.PAT }}
     - name: make get_zone
       id: make_get_zone
       run: make get_zone
-    - name: Push changes2
-      run: echo $github_token | wc
-      env:
-        github_token: ${{ secrets.PAT }}
-
     - name: Commit files
       run: |
         git config --local user.email "action@github.bot"
