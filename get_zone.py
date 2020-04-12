@@ -26,7 +26,7 @@ pool = Pool(pool_size)
 dnsResolver = dns.resolver.Resolver()
 dnsResolver.timeout = 4
 dnsResolver.lifetime = 4
-#dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
+dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
 
 res = []
 
