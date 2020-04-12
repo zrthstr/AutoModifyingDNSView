@@ -1,60 +1,55 @@
 #!/usr/bin/env python3
 
+import sys
 import dns.resolver
-import dns.query
-import random
-import time
+from multiprocessing.pool import ThreadPool as Pool
 
 tld_file = "effective_tld_names.dat.sane"
-tld_ns_file = "effective_tld_names.dat.sane.ns"
-ns_state_file = "get_ns.state"
+ns_out = "ns.out"
 
-def next_domain(in_file,start_at=0):
-        with open(in_file, 'r') as f:
-            lines = f.read().splitlines()
-            lines = lines[start_at:]
-            for line in lines:
-                yield line
+pool_size = 4
+pool = Pool(pool_size)
+dnsResolver = dns.resolver.Resolver()
+dnsResolver.timeout = 3
+dnsResolver.lifetime = 3
+dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
 
+res = []
 
-def get_ns(domain):
-    all_ns = set()
+def fetch_NS(domain):
     try:
-        responses = dns.resolver.query(domain,'NS')
-    except:
-        return []
-    return [str(ns.target) for ns in responses]
+        domain = domain.strip()
+        dnsAnswer = dnsResolver.query(domain, "NS")
 
+        ## the folowing for loop dosnt make sense but is needed... 
+        #for rdata in dnsAnswer:
+        #    pass
 
+        line = domain + "," + ",".join([str(rdata) for rdata in dnsAnswer ])
+        res.append(line)
+        #res.append([str(rdata) for rdate in dnsAnswer ])
 
-def get_state(file_name):
-    try:
-        with open(file_name, 'r') as f:
-            return int(f.read().strip())
-    except:
-        return 0
+    except dns.resolver.NXDOMAIN:
+        print ("[e] No records exists for", domain)
+    except dns.resolver.Timeout:
+        print ("[e] Timeout in querying",domain)
 
-# set FLUSH to 1-N to set on every Nth iterations files and debug msg are flushed
-FLUSH = 100
+maxline = 9999999999
+if len(sys.argv) > 1:
+    maxline = int(sys.argv[1])
 
-ns_state = get_state(ns_state_file)
-print(f"[debug:ns_state] Found state: {ns_state}")
-lines = next_domain(tld_file, ns_state)
+print(f"maxline {maxline}")
 
-with open(ns_state_file, 'w') as ns_state_fd:
-    with open(tld_ns_file, 'a') as fd:
-        for ns_state, domain in enumerate(lines):
-            ns_list = get_ns(domain)
-            ns_list_comma = ",".join(ns_list)
-            ns_entry = f"{domain},{ns_list_comma}\n"
+with open(tld_file,'r') as fd1:
+    for count, domain in enumerate(fd1):
+        #print(f"cpint {count}")
+        if count > maxline:
+            print(f"[i] maxline reached")
+            break
+        pool.apply_async(fetch_NS, (domain,))
 
-            fd.write(ns_entry)
-            ns_state_fd.seek(0)
-            ns_state_fd.write(str(ns_state))
-
-            if not ns_state % FLUSH:
-                print(f"[status] doing: {ns_state}")
-                fd.flush()
-                ns_state_fd.flush()
-
-        print(f"[done] {ns_state+1} domains queried")
+pool.close()
+pool.join()
+out = "\n".join(res)
+with open(ns_out,'w') as f:
+    f.write(out)

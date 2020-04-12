@@ -70,6 +70,7 @@ with open(ns_in,'r') as fd1:
 
 pool.close()
 pool.join()
+### TODO dedup res on domain basis 
 out = "\n".join(res)
 print(out, res)
 with open(ns_in,'w') as f:
