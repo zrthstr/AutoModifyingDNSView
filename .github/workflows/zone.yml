@@ -21,15 +21,15 @@ jobs:
       id: make_clean_zone
       run: make clean_zone
     - name: Push changes1
-      run: echo ${{ secrets.PAT }} | wc
-      with:
+      run: echo ${{ github_toke }} | wc
+      env:
         github_token: ${{ secrets.PAT }}
     - name: make get_zone
       id: make_get_zone
       run: make get_zone
     - name: Push changes2
-      run: echo ${{ secrets.PAT }} | wc
-      with:
+      run: echo ${{ github_token }} | wc
+      env:
         github_token: ${{ secrets.PAT }}
 
     - name: Commit files
