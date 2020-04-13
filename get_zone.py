@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
 
-def get_zone(nameserver,domain,lifetime=5):
-    try:
-        axfr = dns.query.xfr(nameserver, domain, lifetime=lifetime)
-    except:
-        return []
-    try:
-        return [ str(entry)+"."+domain for entry in list(dns.zone.from_xfr(axfr))]
-    except:
-        return []
-
-#!/usr/bin/env python3
-
 import sys
 import dns.resolver
 import dns.query
@@ -21,12 +9,12 @@ from multiprocessing.pool import ThreadPool as Pool
 ns_in = "ns.out"
 zone_out = "zone.out"
 
-pool_size = 5
+pool_size = 25
 pool = Pool(pool_size)
 dnsResolver = dns.resolver.Resolver()
 dnsResolver.timeout = 4
 dnsResolver.lifetime = 4
-dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
+#dnsResolver.nameservers = ['8.8.8.8','8.8.4.4','1.1.1.1','1.0.0.1']
 
 res = []
 
@@ -38,7 +26,9 @@ def fetch_ZONE(domain, ns):
     #print("XXXXXXXXXXXXX",dnsAnswer)
     #try:
 
+    # foo =  [ str(entry)+"."+domain for entry in list(dns.zone.from_xfr(axfr))]
     line = domain + ":" + "\n".join([str(rdata) for rdata in dnsAnswer ])
+    print("line", line)
 
     #print(f"ne = line = {line}")
     res.append(line)
@@ -70,8 +60,8 @@ with open(ns_in,'r') as fd1:
 
 pool.close()
 pool.join()
-### TODO dedup res on domain basis 
+### TODO dedup res on domain basis
 out = "\n".join(res)
-print(out, res)
-with open(ns_in,'w') as f:
+print("out,res::",out, res)
+with open(zone_out,'w') as f:
     f.write(out)

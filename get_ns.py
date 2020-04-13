@@ -7,7 +7,7 @@ from multiprocessing.pool import ThreadPool as Pool
 tld_file = "effective_tld_names.dat.sane"
 ns_out = "ns.out"
 
-pool_size = 4
+pool_size = 25
 pool = Pool(pool_size)
 dnsResolver = dns.resolver.Resolver()
 dnsResolver.timeout = 3
