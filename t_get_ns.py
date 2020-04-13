@@ -32,6 +32,8 @@ def fetch_NS(domain):
 
     except dns.resolver.NXDOMAIN:
         print ("[e] No records exists for", domain)
+    except dns.resolver.NoNameservers:
+        print ("[e] NoNameservers", domain)
     except dns.resolver.NoAnswer:
         print ("[e] NoAnswer", domain)
     except dns.resolver.Timeout:
@@ -40,6 +42,7 @@ def fetch_NS(domain):
 maxline = 9999999999
 if len(sys.argv) > 1:
     maxline = int(sys.argv[1])
+import time
 
 print(f"maxline {maxline}")
 threads = []
@@ -51,6 +54,9 @@ with open(tld_file,'r') as fd1:
             break
         #pool.apply_async(fetch_NS, (domain,))
         t = threading.Thread(target=fetch_NS, args=(domain,))
+        print( threading.active_count() )
+        if threading.active_count() > 30:
+            time.sleep(0.5)
         threads.append(t)
         t.start()
 
