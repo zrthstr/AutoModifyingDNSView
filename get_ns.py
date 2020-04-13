@@ -21,10 +21,6 @@ def fetch_NS(domain):
         domain = domain.strip()
         dnsAnswer = dnsResolver.query(domain, "NS")
 
-        ## the folowing for loop dosnt make sense but is needed... 
-        #for rdata in dnsAnswer:
-        #    pass
-
         line = domain + "," + ",".join([str(rdata) for rdata in dnsAnswer ])
         res.append(line)
         #res.append([str(rdata) for rdate in dnsAnswer ])
