@@ -57,8 +57,8 @@ with open(tld_file,'r') as fd1:
 t.join()
 #pool.close()
 #pool.join()
-out = "XXXXXXXXxXXX" + "\n".join(res)
+out = "\n".join(res)
 print(out)
 #print(threads)
-#with open(ns_out,'w') as f:
-#    f.write(out)
+with open(ns_out,'w') as f:
+    f.write(out)

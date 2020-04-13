@@ -3,7 +3,7 @@ TLD_LIST_CLEAN = $(TLD_LIST).clean
 TLD_LIST_SANE = $(TLD_LIST).sane
 TLD_LIST_STAT = effective_tld_names.stat
 NS_OUT = ns.out
-ZONES_OUT = zone.out
+ZONE_OUT = zone.out
 
 install_py_dep:
 	pip3 install -r requirements.txt
@@ -24,11 +24,11 @@ clean_ns:
 	touch $(NS_OUT)
 
 get_ns: clean_ns
-	python3 get_ns.py
+	python3 t_get_ns.py
 
 clean_zone:
-	rm $(ZONES_OUT)
-	touch $(ZONES_OUT)
+	rm $(ZONE_OUT)
+	touch $(ZONE_OUT)
 
 get_zone: clean_zone
 	echo get_zone
