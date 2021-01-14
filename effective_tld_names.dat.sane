@@ -917,7 +917,6 @@ bozen-sudtirol.it
 bozen-suedtirol.it
 bozen-südtirol.it
 bozen.it
-bpl.biz
 bplaced.com
 bplaced.de
 bplaced.net
@@ -1164,7 +1163,6 @@ cdn77-ssl.net
 ce.gov.br
 ce.it
 ce.leg.br
-ceb
 cechire.com
 celtic.museum
 center
@@ -1801,6 +1799,8 @@ democracia.bo
 democrat
 demon.nl
 denmark.museum
+deno-staging.dev
+deno.dev
 dental
 dentist
 dep.no
@@ -2112,6 +2112,7 @@ edu.ru
 edu.sa
 edu.sb
 edu.sc
+edu.scot
 edu.sd
 edu.sg
 edu.sl
@@ -2335,7 +2336,6 @@ fetsund.no
 fg.it
 fh-muenster.io
 fh.se
-fhapp.xyz
 fhs.no
 fhsk.se
 fhv.se
@@ -2403,6 +2403,7 @@ fl.us
 fla.no
 flakstad.no
 flanders.museum
+flap.id
 flatanger.no
 flekkefjord.no
 flesberg.no
@@ -2728,6 +2729,7 @@ gg.ax
 ggee
 ggf.br
 gh
+ghost.io
 gi
 giehtavuoatna.no
 giessen.museum
@@ -3084,6 +3086,8 @@ gz.cn
 gáivuotna.no
 gálsá.no
 gáŋgaviika.no
+günstigbestellen.de
+günstigliefern.de
 h.bg
 h.se
 ha.cn
@@ -4292,6 +4296,7 @@ krasnik.pl
 krasnodar.su
 krd
 kred
+krellian.net
 kristiansand.no
 kristiansund.no
 krodsherad.no
@@ -4602,6 +4607,7 @@ loginto.me
 logistics.aero
 logoip.com
 logoip.de
+lohmus.me
 lol
 lolipop.io
 lom.it
@@ -4663,7 +4669,6 @@ lukow.pl
 lund.no
 lundbeck
 lunner.no
-lupin
 luroy.no
 lurøy.no
 luster.no
@@ -5200,6 +5205,7 @@ mysecuritycamera.com
 mysecuritycamera.net
 mysecuritycamera.org
 myshopblocks.com
+myshopify.com
 mytis.ru
 mytuleap.com
 myvnc.com
@@ -5541,10 +5547,7 @@ nfl
 nflfan.org
 nfshost.com
 ng
-ng.city
 ng.eu.org
-ng.ink
-ng.school
 ngo
 ngo.lk
 ngo.ng
@@ -6144,6 +6147,7 @@ org.vi
 org.vn
 org.vu
 org.ws
+org.yt
 org.za
 org.zm
 org.zw
@@ -6153,6 +6157,7 @@ oristano.it
 orkanger.no
 orkdal.no
 orland.no
+orsites.com
 orskog.no
 orsta.no
 orx.biz
@@ -7236,6 +7241,7 @@ shop.hu
 shop.pl
 shop.ro
 shop.th
+shoparena.pl
 shopitsite.com
 shopping
 shopware.store
@@ -7318,6 +7324,7 @@ small-web.org
 smart
 smile
 smola.no
+smushcdn.com
 smøla.no
 sn
 sn.cn
@@ -7718,6 +7725,7 @@ temasek
 temp-dns.com
 tempio-olbia.it
 tempioolbia.it
+tempurl.host
 tendo.yamagata.jp
 tenei.fukushima.jp
 tenkawa.nara.jp
@@ -8477,6 +8485,7 @@ webredirect.org
 website
 website.yandexcloud.net
 webspace.rocks
+webthings.io
 wedding
 wedeploy.io
 wedeploy.me
@@ -8527,6 +8536,7 @@ wnext.app
 wodzislaw.pl
 wolomin.pl
 wolterskluwer
+woltlab-demo.com
 woodside
 work
 workers.dev
@@ -8540,6 +8550,9 @@ worse-than.tv
 wow
 wpdevcloud.com
 wpenginepowered.com
+wphostedmail.com
+wpmucdn.com
+wpmudev.host
 writesthisblog.com
 wroc.pl
 wroclaw.pl
@@ -8767,26 +8780,36 @@ zw
 ак.срб
 бг
 бел
+биз.рус
 дети
 ею
 иком.museum
 католик
 ком
+ком.рус
+крым.рус
+мир.рус
 мкд
 мон
 москва
+мск.рус
 обр.срб
 од.срб
 онлайн
 орг
+орг.рус
 орг.срб
 пр.срб
 рус
 рф
 сайт
+самара.рус
+сочи.рус
+спб.рус
 срб
 укр
 упр.срб
+я.рус
 қаз
 հայ
 ירושלים.museum
