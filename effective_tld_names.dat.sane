@@ -328,7 +328,6 @@ amot.no
 amplifyapp.com
 amscompute.com
 amsterdam
-amusement.aero
 an.it
 analytics
 analytics-gateway.ap-northeast-1.amazonaws.com
@@ -382,14 +381,18 @@ ap-northeast-1.airflow.amazonaws.com
 ap-northeast-1.elasticbeanstalk.com
 ap-northeast-2.airflow.amazonaws.com
 ap-northeast-2.elasticbeanstalk.com
+ap-northeast-3.airflow.amazonaws.com
 ap-northeast-3.elasticbeanstalk.com
 ap-south-1.airflow.amazonaws.com
 ap-south-1.elasticbeanstalk.com
+ap-south-2.airflow.amazonaws.com
 ap-southeast-1.airflow.amazonaws.com
 ap-southeast-1.elasticbeanstalk.com
 ap-southeast-2.airflow.amazonaws.com
 ap-southeast-2.elasticbeanstalk.com
+ap-southeast-3.airflow.amazonaws.com
 ap-southeast-3.elasticbeanstalk.com
+ap-southeast-4.airflow.amazonaws.com
 ap.gov.br
 ap.gov.pl
 ap.it
@@ -554,6 +557,7 @@ auth-fips.us-gov-west-1.amazoncognito.com
 auth-fips.us-west-1.amazoncognito.com
 auth-fips.us-west-2.amazoncognito.com
 auth.af-south-1.amazoncognito.com
+auth.ap-east-1.amazoncognito.com
 auth.ap-northeast-1.amazoncognito.com
 auth.ap-northeast-2.amazoncognito.com
 auth.ap-northeast-3.amazoncognito.com
@@ -564,6 +568,7 @@ auth.ap-southeast-2.amazoncognito.com
 auth.ap-southeast-3.amazoncognito.com
 auth.ap-southeast-4.amazoncognito.com
 auth.ca-central-1.amazoncognito.com
+auth.ca-west-1.amazoncognito.com
 auth.eu-central-1.amazoncognito.com
 auth.eu-central-2.amazoncognito.com
 auth.eu-north-1.amazoncognito.com
@@ -1094,6 +1099,7 @@ c66.me
 ca
 ca-central-1.airflow.amazonaws.com
 ca-central-1.elasticbeanstalk.com
+ca-west-1.airflow.amazonaws.com
 ca.eu.org
 ca.in
 ca.it
@@ -1905,6 +1911,7 @@ development.run
 devices.resinstaging.io
 df.gov.br
 df.leg.br
+dfirma.pl
 dgca.aero
 dh.bytemark.co.uk
 dhl
@@ -1940,6 +1947,7 @@ diy
 dj
 dk
 dk.eu.org
+dkonto.pl
 dlugoleka.pl
 dm
 dn.ua
@@ -2444,10 +2452,12 @@ eu-3.evennode.com
 eu-4.evennode.com
 eu-central-1.airflow.amazonaws.com
 eu-central-1.elasticbeanstalk.com
+eu-central-2.airflow.amazonaws.com
 eu-north-1.airflow.amazonaws.com
 eu-north-1.elasticbeanstalk.com
 eu-south-1.airflow.amazonaws.com
 eu-south-1.elasticbeanstalk.com
+eu-south-2.airflow.amazonaws.com
 eu-west-1.airflow.amazonaws.com
 eu-west-1.elasticbeanstalk.com
 eu-west-2.airflow.amazonaws.com
@@ -2510,6 +2520,7 @@ execute-api.us-gov-west-1.amazonaws.com
 execute-api.us-west-1.amazonaws.com
 execute-api.us-west-2.amazonaws.com
 exnet.su
+experiments.sagemaker.aws
 expert
 experts-comptables.fr
 expo.app
@@ -2734,6 +2745,7 @@ freemyip.com
 freesite.host
 freetls.fastly.net
 frei.no
+freight.aero
 frenchkiss.jp
 fresenius
 friuli-v-giulia.it
@@ -3725,6 +3737,7 @@ iki.nagasaki.jp
 ikoma.nara.jp
 ikusaka.nagano.jp
 il
+il-central-1.airflow.amazonaws.com
 il-central-1.elasticbeanstalk.com
 il.eu.org
 il.us
@@ -5019,6 +5032,7 @@ maringa.br
 marker.no
 market
 marketing
+marketplace.aero
 markets
 marnardal.no
 marriott
@@ -5075,6 +5089,7 @@ md
 md.ci
 md.us
 me
+me-central-1.airflow.amazonaws.com
 me-south-1.airflow.amazonaws.com
 me-south-1.elasticbeanstalk.com
 me.eu.org
@@ -7687,7 +7702,6 @@ shakotan.hokkaido.jp
 shangrila
 shari.hokkaido.jp
 sharp
-shaw
 sheezy.games
 shell
 shia
@@ -8291,6 +8305,7 @@ tattoo
 tawaramoto.nara.jp
 tax
 taxi
+taxi.aero
 taxi.br
 tayninh.vn
 tc
@@ -9376,6 +9391,7 @@ yoshinogari.saga.jp
 yoshioka.gunma.jp
 yotsukaido.chiba.jp
 you
+you2.pl
 youtube
 yt
 yuasa.wakayama.jp
