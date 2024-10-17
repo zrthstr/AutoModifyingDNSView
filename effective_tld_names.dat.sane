@@ -298,6 +298,7 @@ alpha-myqnapcloud.com
 alsace
 alstahaug.no
 alstom
+alt.na
 alt.za
 alta.no
 altervista.org
@@ -404,7 +405,6 @@ api.stdlib.com
 apigee.io
 app
 app-ionos.space
-app.banzaicloud.io
 app.br
 app.os.fedoraproject.org
 app.os.stg.fedoraproject.org
@@ -646,7 +646,6 @@ babymilk.jp
 bacgiang.vn
 backan.vn
 backdrop.jp
-backyards.banzaicloud.io
 baclieu.vn
 bacninh.vn
 badaddja.no
@@ -673,7 +672,6 @@ band
 bandai.fukushima.jp
 bando.ibaraki.jp
 bank
-banzai.cloud
 bar
 bar.pro
 barcelona
@@ -778,7 +776,6 @@ bestbuy
 bet
 bet.ar
 bet.br
-beta.tailscale.net
 betainabox.com
 better-than.tv
 bf
@@ -947,7 +944,6 @@ blogspot.ug
 blogspot.vn
 blogsyte.com
 bloomberg
-bloxcms.com
 blue
 bluebite.io
 blush.jp
@@ -1096,7 +1092,6 @@ ca-west-1.airflow.amazonaws.com
 ca.eu.org
 ca.in
 ca.it
-ca.na
 ca.reclaim.cloud
 ca.us
 caa.aero
@@ -1204,7 +1199,6 @@ cc.mn.us
 cc.mo.us
 cc.ms.us
 cc.mt.us
-cc.na
 cc.nc.us
 cc.nd.us
 cc.ne.us
@@ -1825,7 +1819,6 @@ dclk
 dd-dns.de
 ddns.me
 ddns.net
-ddns5.com
 ddnsfree.com
 ddnsgeek.com
 ddnsking.com
@@ -1974,7 +1967,6 @@ dovre.no
 download
 dp.ua
 dr.in
-dr.na
 dr.tr
 drammen.no
 drangedal.no
@@ -3151,6 +3143,7 @@ gov.mv
 gov.mw
 gov.my
 gov.mz
+gov.na
 gov.nc.tr
 gov.ng
 gov.nl
@@ -3546,7 +3539,6 @@ homeftp.net
 homeftp.org
 homegoods
 homeip.net
-homelink.one
 homelinux.com
 homelinux.net
 homelinux.org
@@ -3742,7 +3734,6 @@ in-vpn.net
 in-vpn.org
 in.eu.org
 in.futurecms.at
-in.na
 in.net
 in.ngrok.io
 in.ni
@@ -3808,7 +3799,6 @@ info.ki
 info.la
 info.ls
 info.mv
-info.na
 info.nf
 info.ni
 info.nr
@@ -5092,6 +5082,7 @@ mediatech.dev
 medicina.bo
 medio-campidano.it
 mediocampidano.it
+medusajs.app
 meet
 meguro.tokyo.jp
 mein-iserv.de
@@ -5273,7 +5264,6 @@ mobara.chiba.jp
 mobi
 mobi.gp
 mobi.ke
-mobi.na
 mobi.ng
 mobi.tt
 mobi.tz
@@ -5389,7 +5379,6 @@ musashimurayama.tokyo.jp
 musashino.tokyo.jp
 museum
 museum.mv
-museum.mw
 museum.no
 museum.om
 museum.tt
@@ -5405,7 +5394,6 @@ mw
 mw.gov.pl
 mwcloudnonprod.com
 mx
-mx.na
 my
 my-firewall.org
 my-gateway.de
@@ -5567,7 +5555,6 @@ name.jo
 name.mk
 name.mv
 name.my
-name.na
 name.ng
 name.pm
 name.pr
@@ -5632,7 +5619,6 @@ ne
 ne.jp
 ne.ke
 ne.kr
-ne.pw
 ne.tz
 ne.ug
 ne.us
@@ -5736,6 +5722,7 @@ net.mw
 net.mx
 net.my
 net.mz
+net.na
 net.nf
 net.ng
 net.ni
@@ -6256,7 +6243,6 @@ or.jp
 or.ke
 or.kr
 or.mu
-or.na
 or.pw
 or.th
 or.tz
@@ -6742,7 +6728,6 @@ presse.ci
 presse.km
 presse.ml
 preview.csb.app
-preview.wdh.app
 pri.ee
 prime
 primetel.cloud
@@ -6765,7 +6750,6 @@ pro.fj
 pro.ht
 pro.in
 pro.mv
-pro.na
 pro.om
 pro.pr
 pro.tt
@@ -7565,7 +7549,6 @@ schmidt
 schokokeks.net
 scholarships
 school
-school.na
 school.nz
 school.za
 schoolbus.jp
@@ -8183,8 +8166,6 @@ sørreisa.no
 sørum.no
 südtirol.it
 t.bg
-t.hrsn.dev
-t.hrsn.net
 t.se
 ta.it
 taa.it
@@ -8661,7 +8642,6 @@ tv.br
 tv.im
 tv.in
 tv.it
-tv.na
 tv.sd
 tv.tr
 tv.tz
@@ -8801,7 +8781,6 @@ us.eu.org
 us.gov.pl
 us.in
 us.kg
-us.na
 us.ngrok.io
 us.org
 us.platform.sh
@@ -9239,7 +9218,6 @@ writesthisblog.com
 wroc.pl
 wroclaw.pl
 ws
-ws.na
 wsa.gov.pl
 wskr.gov.pl
 wsse.gov.pl
@@ -9336,11 +9314,6 @@ yawara.ibaraki.jp
 yawata.kyoto.jp
 yawatahama.ehime.jp
 yazu.tottori.jp
-ybo.faith
-ybo.party
-ybo.review
-ybo.science
-ybo.trade
 ye
 yenbai.vn
 yk.ca
