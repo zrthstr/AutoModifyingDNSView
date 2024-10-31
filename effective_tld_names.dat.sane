@@ -1448,6 +1448,7 @@ co.id
 co.il
 co.im
 co.in
+co.io
 co.ir
 co.it
 co.je
@@ -2140,6 +2141,7 @@ edu.hk
 edu.hn
 edu.ht
 edu.in
+edu.io
 edu.iq
 edu.is
 edu.it
@@ -3089,7 +3091,6 @@ gov.cl
 gov.cm
 gov.cn
 gov.co
-gov.cu
 gov.cx
 gov.cy
 gov.dm
@@ -3112,6 +3113,7 @@ gov.hk
 gov.ie
 gov.il
 gov.in
+gov.io
 gov.iq
 gov.ir
 gov.is
@@ -3204,6 +3206,7 @@ gr.com
 gr.eu.org
 gr.it
 gr.jp
+grafana-dev.net
 grainger
 grajewo.pl
 gran.no
@@ -5046,7 +5049,6 @@ mckinsey
 mcpe.me
 mcpre.ru
 md
-md.ci
 md.us
 me
 me-central-1.airflow.amazonaws.com
@@ -5693,6 +5695,7 @@ net.id
 net.il
 net.im
 net.in
+net.io
 net.iq
 net.ir
 net.is
@@ -5916,6 +5919,7 @@ nom.br
 nom.co
 nom.es
 nom.fr
+nom.io
 nom.km
 nom.mg
 nom.nc
@@ -6318,6 +6322,7 @@ org.hu
 org.il
 org.im
 org.in
+org.io
 org.iq
 org.ir
 org.is
@@ -6728,7 +6733,6 @@ press.aero
 press.cy
 press.ma
 press.se
-presse.ci
 presse.km
 presse.ml
 preview.csb.app
