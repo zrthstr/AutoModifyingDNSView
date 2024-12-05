@@ -101,6 +101,7 @@ ac.ci
 ac.cn
 ac.cr
 ac.cy
+ac.eg
 ac.fj
 ac.gn
 ac.gov.br
@@ -3792,6 +3793,7 @@ info.bj
 info.bo
 info.cx
 info.ec
+info.eg
 info.et
 info.fj
 info.gu
@@ -3856,6 +3858,7 @@ investments
 inzai.chiba.jp
 io
 io.in
+io.noc.ruhr-uni-bochum.de
 io.vn
 iobb.net
 iopsys.se
@@ -5043,7 +5046,6 @@ mc.it
 mcdir.me
 mcdir.ru
 mckinsey
-mcpe.me
 mcpre.ru
 md
 md.us
@@ -5051,6 +5053,7 @@ me
 me-central-1.airflow.amazonaws.com
 me-south-1.airflow.amazonaws.com
 me-south-1.elasticbeanstalk.com
+me.eg
 me.eu.org
 me.in
 me.it
@@ -6055,6 +6058,7 @@ nøtterøy.no
 o.bg
 o.se
 o0o0.jp
+o365.cloud.nospamproxy.com
 oamishirasato.chiba.jp
 oarai.ibaraki.jp
 obama.fukui.jp
@@ -7047,8 +7051,10 @@ ru
 ru.com
 ru.eu.org
 ru.net
+rub.de
 rugby
 ruhr
+ruhr-uni-bochum.de
 rulez.jp
 run
 run.app
@@ -7954,6 +7960,7 @@ sphinx.mythic-beasts.com
 spjelkavik.no
 spock.replit.dev
 sport
+sport.eg
 sport.hu
 spot
 spydeberg.no
@@ -8642,6 +8649,7 @@ tv
 tv.bb
 tv.bo
 tv.br
+tv.eg
 tv.im
 tv.in
 tv.it
@@ -8743,7 +8751,6 @@ uol
 uonuma.niigata.jp
 uozu.toyama.jp
 up.in
-upli.io
 upow.gov.pl
 upper.jp
 uppo.gov.pl
@@ -9589,7 +9596,6 @@ zw
 商城
 商店
 商标
-商業.tw
 嘉里
 嘉里大酒店
 在线
@@ -9653,14 +9659,12 @@ zw
 移动
 箇人.hk
 組織.hk
-組織.tw
 組織.香港
 組织.hk
 網絡.cn
 網絡.hk
 網絡.香港
 網络.hk
-網路.tw
 组織.hk
 组织.hk
 组织机构
