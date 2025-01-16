@@ -1027,7 +1027,6 @@ ca.it
 ca.reclaim.cloud
 ca.us
 caa.aero
-caa.li
 cab
 cable-modem.org
 cafe
@@ -1304,6 +1303,7 @@ cloudaccess.host
 cloudaccess.net
 cloudapp.net
 cloudapps.digital
+cloudbeesusercontent.io
 cloudera.site
 cloudflare-ipfs.com
 cloudflare.net
@@ -1604,7 +1604,6 @@ comsec
 condos
 conf.au
 conf.lv
-conf.se
 conference.aero
 conn.uk
 construction
@@ -2143,6 +2142,7 @@ edu.ua
 edu.uy
 edu.vc
 edu.ve
+edu.vg
 edu.vn
 edu.vu
 edu.ws
@@ -2501,7 +2501,6 @@ filegear-sg.me
 filegear.me
 film
 film.hu
-fin.ci
 fin.ec
 fin.tn
 final
@@ -2622,7 +2621,6 @@ framercanvas.com
 frana.no
 fredrikstad.no
 free
-free.hr
 freebox-os.com
 freebox-os.fr
 freeboxos.com
@@ -3797,6 +3795,7 @@ ipiranga
 iq
 ir
 ir.md
+iran.liara.run
 iris.arpa
 irish
 iruma.saitama.jp
@@ -4659,6 +4658,7 @@ lg.ua
 lgbt
 li
 li.it
+liara.run
 lib.ak.us
 lib.al.us
 lib.ar.us
@@ -7985,6 +7985,7 @@ studio.ca-central-1.sagemaker.aws
 studio.cn-north-1.sagemaker.com.cn
 studio.cn-northwest-1.sagemaker.com.cn
 studio.eu-central-1.sagemaker.aws
+studio.eu-central-2.sagemaker.aws
 studio.eu-north-1.sagemaker.aws
 studio.eu-south-1.sagemaker.aws
 studio.eu-south-2.sagemaker.aws
@@ -8008,6 +8009,8 @@ stufftoread.com
 style
 su
 sub.jp
+sub.psl.hrsn.dev
+sub.wc.psl.hrsn.dev
 sucks
 sue.fukuoka.jp
 suedtirol.it
@@ -8442,6 +8445,15 @@ trani-barletta-andria.it
 traniandriabarletta.it
 tranibarlettaandria.it
 tranoy.no
+transfer-webapp.ap-northeast-1.on.aws
+transfer-webapp.ap-southeast-1.on.aws
+transfer-webapp.ap-southeast-2.on.aws
+transfer-webapp.eu-central-1.on.aws
+transfer-webapp.eu-north-1.on.aws
+transfer-webapp.eu-west-1.on.aws
+transfer-webapp.us-east-1.on.aws
+transfer-webapp.us-east-2.on.aws
+transfer-webapp.us-west-2.on.aws
 translate.goog
 translated.page
 transporte.bo
@@ -8600,7 +8612,6 @@ u.se
 u2-local.xnbay.com
 u2.xnbay.com
 ua
-ua.rs
 ubank
 ube.yamaguchi.jp
 uber.space
@@ -8986,6 +8997,7 @@ waw.pl
 wazuka.kyoto.jp
 wb.crm.dev
 wc.crm.dev
+wc.psl.hrsn.dev
 wd.crm.dev
 wdh.app
 we.bs
