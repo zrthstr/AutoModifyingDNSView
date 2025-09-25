@@ -272,9 +272,6 @@ airflow.us-east-2.on.aws
 airflow.us-west-1.on.aws
 airflow.us-west-2.on.aws
 airforce
-airkitapps-au.com
-airkitapps.com
-airkitapps.eu
 airline.aero
 airport.aero
 airtel
@@ -2059,6 +2056,7 @@ dyrøy.no
 dz
 dønna.no
 e.bg
+e.id
 e.se
 e12.ve
 e164.arpa
@@ -4146,6 +4144,8 @@ jor.br
 jorpeland.no
 joso.ibaraki.jp
 jot
+jote-dr-lt1.com
+jote-rd-lt1.com
 jote.cloud
 jotelulu.cloud
 journal.aero
@@ -8218,6 +8218,7 @@ supersale.jp
 supplies
 supply
 support
+support.site
 surf
 surgery
 surnadal.no
@@ -8415,6 +8416,7 @@ tel.tr
 telebit.app
 telebit.io
 telebit.xyz
+teleport.sh
 temasek
 temp-dns.com
 tempio-olbia.it
